@@ -1,0 +1,132 @@
+[11-May-2025 14:33:12 UTC] PHP Fatal error:  Uncaught Error: Class "PhpOffice\PhpSpreadsheet\Exception" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Writer/Exception.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Writer/Exception.php on line 7
+[11-May-2025 14:34:05 UTC] PHP Fatal error:  Uncaught Error: Class "PhpOffice\PhpSpreadsheet\Writer\BaseWriter" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Writer/Ods.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Writer/Ods.php on line 17
+[11-May-2025 14:34:33 UTC] PHP Fatal error:  Uncaught Error: Class "PhpOffice\PhpSpreadsheet\Writer\BaseWriter" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Writer/Xls.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Writer/Xls.php on line 30
+[11-May-2025 14:35:31 UTC] PHP Fatal error:  Uncaught Error: Class "PhpOffice\PhpSpreadsheet\Writer\BaseWriter" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Writer/Xlsx.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Writer/Xlsx.php on line 36
+[11-May-2025 14:36:03 UTC] PHP Fatal error:  Uncaught Error: Class "PhpOffice\PhpSpreadsheet\Writer\Html" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Writer/Pdf.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Writer/Pdf.php on line 10
+[11-May-2025 14:36:29 UTC] PHP Fatal error:  Uncaught Error: Class "PhpOffice\PhpSpreadsheet\Writer\BaseWriter" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Writer/Csv.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Writer/Csv.php on line 10
+[11-May-2025 14:37:27 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpOffice\PhpSpreadsheet\Writer\IWriter" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Writer/BaseWriter.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Writer/BaseWriter.php on line 5
+[11-May-2025 14:51:15 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpOffice\PhpSpreadsheet\Writer\IWriter" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Writer/BaseWriter.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Writer/BaseWriter.php on line 5
+[11-May-2025 14:52:42 UTC] PHP Fatal error:  Uncaught Error: Class "PhpOffice\PhpSpreadsheet\Writer\BaseWriter" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Writer/Ods.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Writer/Ods.php on line 17
+[11-May-2025 14:53:09 UTC] PHP Fatal error:  Uncaught Error: Class "PhpOffice\PhpSpreadsheet\Writer\Html" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Writer/Pdf.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Writer/Pdf.php on line 10
+[11-May-2025 14:53:17 UTC] PHP Fatal error:  Uncaught Error: Class "PhpOffice\PhpSpreadsheet\Writer\BaseWriter" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Writer/Xlsx.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Writer/Xlsx.php on line 36
+[11-May-2025 14:53:54 UTC] PHP Fatal error:  Uncaught Error: Class "PhpOffice\PhpSpreadsheet\Writer\BaseWriter" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Writer/Csv.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Writer/Csv.php on line 10
+[11-May-2025 14:54:53 UTC] PHP Fatal error:  Uncaught Error: Class "PhpOffice\PhpSpreadsheet\Exception" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Writer/Exception.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Writer/Exception.php on line 7
+[11-May-2025 18:49:01 UTC] PHP Fatal error:  Uncaught Error: Class "PhpOffice\PhpSpreadsheet\Writer\BaseWriter" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Writer/Html.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Writer/Html.php on line 35
+[11-May-2025 19:03:26 UTC] PHP Fatal error:  Uncaught Error: Class "PhpOffice\PhpSpreadsheet\Writer\Html" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Writer/Pdf.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Writer/Pdf.php on line 10
+[11-May-2025 19:05:42 UTC] PHP Fatal error:  Uncaught Error: Class "PhpOffice\PhpSpreadsheet\Writer\BaseWriter" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Writer/Xls.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Writer/Xls.php on line 30
+[11-May-2025 19:32:53 UTC] PHP Fatal error:  Uncaught Error: Class "PhpOffice\PhpSpreadsheet\Writer\BaseWriter" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Writer/Ods.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Writer/Ods.php on line 17
+[11-May-2025 19:49:20 UTC] PHP Fatal error:  Uncaught Error: Class "PhpOffice\PhpSpreadsheet\Exception" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Writer/Exception.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Writer/Exception.php on line 7
+[11-May-2025 19:56:28 UTC] PHP Fatal error:  Uncaught Error: Class "PhpOffice\PhpSpreadsheet\Writer\BaseWriter" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Writer/Xlsx.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Writer/Xlsx.php on line 36
+[11-May-2025 22:27:50 UTC] PHP Fatal error:  Uncaught Error: Class "PhpOffice\PhpSpreadsheet\Writer\BaseWriter" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Writer/Csv.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Writer/Csv.php on line 10
+[11-May-2025 22:53:30 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpOffice\PhpSpreadsheet\Writer\IWriter" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Writer/BaseWriter.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Writer/BaseWriter.php on line 5
+[11-May-2025 23:00:50 UTC] PHP Fatal error:  Uncaught Error: Class "PhpOffice\PhpSpreadsheet\Writer\BaseWriter" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Writer/Html.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Writer/Html.php on line 35
+[12-May-2025 00:26:15 UTC] PHP Fatal error:  Uncaught Error: Class "PhpOffice\PhpSpreadsheet\Writer\BaseWriter" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Writer/Xls.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Writer/Xls.php on line 30
+[12-May-2025 10:49:24 UTC] PHP Fatal error:  Uncaught Error: Class "PhpOffice\PhpSpreadsheet\Writer\BaseWriter" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Writer/Html.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Writer/Html.php on line 35
+[13-May-2025 14:44:28 UTC] PHP Fatal error:  Uncaught Error: Class "PhpOffice\PhpSpreadsheet\Writer\BaseWriter" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Writer/Ods.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Writer/Ods.php on line 17
+[13-May-2025 15:14:01 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpOffice\PhpSpreadsheet\Writer\IWriter" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Writer/BaseWriter.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Writer/BaseWriter.php on line 5
+[13-May-2025 15:14:10 UTC] PHP Fatal error:  Uncaught Error: Class "PhpOffice\PhpSpreadsheet\Exception" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Writer/Exception.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Writer/Exception.php on line 7
+[13-May-2025 15:14:36 UTC] PHP Fatal error:  Uncaught Error: Class "PhpOffice\PhpSpreadsheet\Writer\Html" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Writer/Pdf.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Writer/Pdf.php on line 10
+[13-May-2025 15:14:50 UTC] PHP Fatal error:  Uncaught Error: Class "PhpOffice\PhpSpreadsheet\Writer\BaseWriter" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Writer/Xlsx.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Writer/Xlsx.php on line 36
+[13-May-2025 17:30:26 UTC] PHP Fatal error:  Uncaught Error: Class "PhpOffice\PhpSpreadsheet\Writer\BaseWriter" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Writer/Csv.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Writer/Csv.php on line 10
+[14-May-2025 00:31:22 UTC] PHP Fatal error:  Uncaught Error: Class "PhpOffice\PhpSpreadsheet\Writer\BaseWriter" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Writer/Xls.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Writer/Xls.php on line 30
+[14-May-2025 13:23:42 UTC] PHP Fatal error:  Uncaught Error: Class "PhpOffice\PhpSpreadsheet\Writer\BaseWriter" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Writer/Html.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Writer/Html.php on line 35
+[15-May-2025 14:39:26 UTC] PHP Fatal error:  Uncaught Error: Class "PhpOffice\PhpSpreadsheet\Writer\BaseWriter" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Writer/Ods.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Writer/Ods.php on line 17

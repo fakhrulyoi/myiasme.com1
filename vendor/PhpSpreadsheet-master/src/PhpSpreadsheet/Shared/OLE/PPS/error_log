@@ -1,0 +1,36 @@
+[11-May-2025 15:30:16 UTC] PHP Fatal error:  Uncaught Error: Class "PhpOffice\PhpSpreadsheet\Shared\OLE\PPS" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Shared/OLE/PPS/Root.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Shared/OLE/PPS/Root.php on line 31
+[11-May-2025 16:12:15 UTC] PHP Fatal error:  Uncaught Error: Class "PhpOffice\PhpSpreadsheet\Shared\OLE\PPS" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Shared/OLE/PPS/Root.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Shared/OLE/PPS/Root.php on line 31
+[11-May-2025 18:10:42 UTC] PHP Fatal error:  Uncaught Error: Class "PhpOffice\PhpSpreadsheet\Shared\OLE\PPS" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Shared/OLE/PPS/File.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Shared/OLE/PPS/File.php on line 31
+[11-May-2025 18:22:34 UTC] PHP Fatal error:  Uncaught Error: Class "PhpOffice\PhpSpreadsheet\Shared\OLE\PPS" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Shared/OLE/PPS/Root.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Shared/OLE/PPS/Root.php on line 31
+[12-May-2025 02:05:01 UTC] PHP Fatal error:  Uncaught Error: Class "PhpOffice\PhpSpreadsheet\Shared\OLE\PPS" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Shared/OLE/PPS/File.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Shared/OLE/PPS/File.php on line 31
+[13-May-2025 16:18:30 UTC] PHP Fatal error:  Uncaught Error: Class "PhpOffice\PhpSpreadsheet\Shared\OLE\PPS" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Shared/OLE/PPS/Root.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Shared/OLE/PPS/Root.php on line 31
+[14-May-2025 02:44:28 UTC] PHP Fatal error:  Uncaught Error: Class "PhpOffice\PhpSpreadsheet\Shared\OLE\PPS" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Shared/OLE/PPS/File.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Shared/OLE/PPS/File.php on line 31
+[14-May-2025 04:13:27 UTC] PHP Fatal error:  Uncaught Error: Class "PhpOffice\PhpSpreadsheet\Shared\OLE\PPS" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Shared/OLE/PPS/File.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Shared/OLE/PPS/File.php on line 31
+[14-May-2025 04:14:58 UTC] PHP Fatal error:  Uncaught Error: Class "PhpOffice\PhpSpreadsheet\Shared\OLE\PPS" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Shared/OLE/PPS/Root.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Shared/OLE/PPS/Root.php on line 31

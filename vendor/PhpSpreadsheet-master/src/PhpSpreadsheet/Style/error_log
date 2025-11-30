@@ -1,0 +1,204 @@
+[11-May-2025 08:55:02 UTC] PHP Fatal error:  Uncaught Error: Class "PhpOffice\PhpSpreadsheet\Style\Supervisor" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Style/Protection.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Style/Protection.php on line 5
+[11-May-2025 08:56:02 UTC] PHP Fatal error:  Uncaught Error: Class "PhpOffice\PhpSpreadsheet\Style\Supervisor" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Style/Font.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Style/Font.php on line 7
+[11-May-2025 08:56:10 UTC] PHP Fatal error:  Uncaught Error: Class "PhpOffice\PhpSpreadsheet\Style\Supervisor" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Style/Borders.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Style/Borders.php on line 7
+[11-May-2025 08:56:32 UTC] PHP Fatal error:  Uncaught Error: Class "PhpOffice\PhpSpreadsheet\Style\Supervisor" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Style/Border.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Style/Border.php on line 7
+[11-May-2025 08:57:03 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpOffice\PhpSpreadsheet\IComparable" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Style/Conditional.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Style/Conditional.php on line 9
+[11-May-2025 08:57:34 UTC] PHP Fatal error:  Uncaught Error: Class "PhpOffice\PhpSpreadsheet\Style\Supervisor" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Style/Fill.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Style/Fill.php on line 5
+[11-May-2025 10:09:39 UTC] PHP Fatal error:  Uncaught Error: Class "PhpOffice\PhpSpreadsheet\Style\Supervisor" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Style/Style.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Style/Style.php on line 12
+[11-May-2025 11:04:24 UTC] PHP Fatal error:  Uncaught Error: Class "PhpOffice\PhpSpreadsheet\Style\Supervisor" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Style/Alignment.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Style/Alignment.php on line 7
+[11-May-2025 11:32:49 UTC] PHP Fatal error:  Uncaught Error: Class "PhpOffice\PhpSpreadsheet\Style\Supervisor" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Style/NumberFormat.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Style/NumberFormat.php on line 7
+[11-May-2025 11:36:58 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpOffice\PhpSpreadsheet\IComparable" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Style/Conditional.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Style/Conditional.php on line 9
+[11-May-2025 11:40:05 UTC] PHP Fatal error:  Uncaught Error: Class "PhpOffice\PhpSpreadsheet\Style\Supervisor" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Style/Fill.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Style/Fill.php on line 5
+[11-May-2025 11:41:08 UTC] PHP Fatal error:  Uncaught Error: Class "PhpOffice\PhpSpreadsheet\Style\Supervisor" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Style/Protection.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Style/Protection.php on line 5
+[11-May-2025 11:42:40 UTC] PHP Fatal error:  Uncaught Error: Class "PhpOffice\PhpSpreadsheet\Style\Supervisor" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Style/Style.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Style/Style.php on line 12
+[11-May-2025 11:43:04 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpOffice\PhpSpreadsheet\IComparable" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Style/Supervisor.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Style/Supervisor.php on line 9
+[11-May-2025 11:46:20 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpOffice\PhpSpreadsheet\IComparable" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Style/Supervisor.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Style/Supervisor.php on line 9
+[11-May-2025 11:56:44 UTC] PHP Fatal error:  Uncaught Error: Class "PhpOffice\PhpSpreadsheet\Style\Supervisor" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Style/Alignment.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Style/Alignment.php on line 7
+[11-May-2025 12:01:25 UTC] PHP Fatal error:  Uncaught Error: Class "PhpOffice\PhpSpreadsheet\Style\Supervisor" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Style/Font.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Style/Font.php on line 7
+[11-May-2025 12:36:08 UTC] PHP Fatal error:  Uncaught Error: Class "PhpOffice\PhpSpreadsheet\Style\Supervisor" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Style/Color.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Style/Color.php on line 5
+[11-May-2025 12:49:18 UTC] PHP Fatal error:  Uncaught Error: Class "PhpOffice\PhpSpreadsheet\Style\Supervisor" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Style/Border.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Style/Border.php on line 7
+[11-May-2025 13:10:14 UTC] PHP Fatal error:  Uncaught Error: Class "PhpOffice\PhpSpreadsheet\Style\Supervisor" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Style/Borders.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Style/Borders.php on line 7
+[11-May-2025 13:11:33 UTC] PHP Fatal error:  Uncaught Error: Class "PhpOffice\PhpSpreadsheet\Style\Supervisor" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Style/Color.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Style/Color.php on line 5
+[11-May-2025 13:18:14 UTC] PHP Fatal error:  Uncaught Error: Class "PhpOffice\PhpSpreadsheet\Style\Supervisor" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Style/NumberFormat.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Style/NumberFormat.php on line 7
+[11-May-2025 19:26:35 UTC] PHP Fatal error:  Uncaught Error: Class "PhpOffice\PhpSpreadsheet\Style\Supervisor" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Style/Style.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Style/Style.php on line 12
+[11-May-2025 19:40:09 UTC] PHP Fatal error:  Uncaught Error: Class "PhpOffice\PhpSpreadsheet\Style\Supervisor" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Style/Borders.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Style/Borders.php on line 7
+[11-May-2025 20:19:07 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpOffice\PhpSpreadsheet\IComparable" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Style/Conditional.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Style/Conditional.php on line 9
+[11-May-2025 20:33:37 UTC] PHP Fatal error:  Uncaught Error: Class "PhpOffice\PhpSpreadsheet\Style\Supervisor" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Style/NumberFormat.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Style/NumberFormat.php on line 7
+[11-May-2025 21:17:17 UTC] PHP Fatal error:  Uncaught Error: Class "PhpOffice\PhpSpreadsheet\Style\Supervisor" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Style/Alignment.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Style/Alignment.php on line 7
+[11-May-2025 22:19:35 UTC] PHP Fatal error:  Uncaught Error: Class "PhpOffice\PhpSpreadsheet\Style\Supervisor" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Style/Protection.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Style/Protection.php on line 5
+[11-May-2025 22:38:50 UTC] PHP Fatal error:  Uncaught Error: Class "PhpOffice\PhpSpreadsheet\Style\Supervisor" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Style/Border.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Style/Border.php on line 7
+[11-May-2025 22:46:10 UTC] PHP Fatal error:  Uncaught Error: Class "PhpOffice\PhpSpreadsheet\Style\Supervisor" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Style/Fill.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Style/Fill.php on line 5
+[11-May-2025 23:16:49 UTC] PHP Fatal error:  Uncaught Error: Class "PhpOffice\PhpSpreadsheet\Style\Supervisor" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Style/Color.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Style/Color.php on line 5
+[11-May-2025 23:21:09 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpOffice\PhpSpreadsheet\IComparable" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Style/Supervisor.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Style/Supervisor.php on line 9
+[11-May-2025 23:22:36 UTC] PHP Fatal error:  Uncaught Error: Class "PhpOffice\PhpSpreadsheet\Style\Supervisor" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Style/Font.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Style/Font.php on line 7
+[12-May-2025 03:22:48 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpOffice\PhpSpreadsheet\IComparable" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Style/Supervisor.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Style/Supervisor.php on line 9
+[13-May-2025 09:21:44 UTC] PHP Fatal error:  Uncaught Error: Class "PhpOffice\PhpSpreadsheet\Style\Supervisor" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Style/Borders.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Style/Borders.php on line 7
+[13-May-2025 09:22:31 UTC] PHP Fatal error:  Uncaught Error: Class "PhpOffice\PhpSpreadsheet\Style\Supervisor" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Style/Fill.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Style/Fill.php on line 5
+[13-May-2025 09:23:24 UTC] PHP Fatal error:  Uncaught Error: Class "PhpOffice\PhpSpreadsheet\Style\Supervisor" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Style/Protection.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Style/Protection.php on line 5
+[13-May-2025 09:26:09 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpOffice\PhpSpreadsheet\IComparable" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Style/Conditional.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Style/Conditional.php on line 9
+[13-May-2025 09:27:14 UTC] PHP Fatal error:  Uncaught Error: Class "PhpOffice\PhpSpreadsheet\Style\Supervisor" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Style/Border.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Style/Border.php on line 7
+[13-May-2025 09:28:01 UTC] PHP Fatal error:  Uncaught Error: Class "PhpOffice\PhpSpreadsheet\Style\Supervisor" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Style/Font.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Style/Font.php on line 7
+[13-May-2025 11:04:46 UTC] PHP Fatal error:  Uncaught Error: Class "PhpOffice\PhpSpreadsheet\Style\Supervisor" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Style/Alignment.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Style/Alignment.php on line 7
+[13-May-2025 11:37:06 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpOffice\PhpSpreadsheet\IComparable" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Style/Supervisor.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Style/Supervisor.php on line 9
+[13-May-2025 11:37:24 UTC] PHP Fatal error:  Uncaught Error: Class "PhpOffice\PhpSpreadsheet\Style\Supervisor" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Style/Style.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Style/Style.php on line 12
+[13-May-2025 12:35:27 UTC] PHP Fatal error:  Uncaught Error: Class "PhpOffice\PhpSpreadsheet\Style\Supervisor" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Style/Color.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Style/Color.php on line 5
+[14-May-2025 02:28:25 UTC] PHP Fatal error:  Uncaught Error: Class "PhpOffice\PhpSpreadsheet\Style\Supervisor" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Style/NumberFormat.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Style/NumberFormat.php on line 7
+[14-May-2025 07:54:00 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpOffice\PhpSpreadsheet\IComparable" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Style/Supervisor.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Style/Supervisor.php on line 9
+[15-May-2025 12:26:30 UTC] PHP Fatal error:  Uncaught Error: Class "PhpOffice\PhpSpreadsheet\Style\Supervisor" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Style/Style.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Style/Style.php on line 12
+[15-May-2025 12:40:01 UTC] PHP Fatal error:  Uncaught Error: Class "PhpOffice\PhpSpreadsheet\Style\Supervisor" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Style/Style.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Style/Style.php on line 12
+[15-May-2025 12:40:50 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpOffice\PhpSpreadsheet\IComparable" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Style/Supervisor.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Style/Supervisor.php on line 9
+[15-May-2025 12:58:29 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpOffice\PhpSpreadsheet\IComparable" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Style/Supervisor.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Style/Supervisor.php on line 9
+[15-May-2025 13:17:42 UTC] PHP Fatal error:  Uncaught Error: Class "PhpOffice\PhpSpreadsheet\Style\Supervisor" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Style/Color.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Style/Color.php on line 5

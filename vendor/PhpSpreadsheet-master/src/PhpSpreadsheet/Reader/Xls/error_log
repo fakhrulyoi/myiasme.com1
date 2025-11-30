@@ -1,0 +1,108 @@
+[11-May-2025 10:49:01 UTC] PHP Fatal error:  Uncaught Error: Class "PhpOffice\PhpSpreadsheet\Reader\Xls" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Reader/Xls/DataValidationHelper.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Reader/Xls/DataValidationHelper.php on line 11
+[11-May-2025 10:50:06 UTC] PHP Fatal error:  Uncaught Error: Class "PhpOffice\PhpSpreadsheet\Reader\Xls" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Reader/Xls/ConditionalFormatting.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Reader/Xls/ConditionalFormatting.php on line 12
+[11-May-2025 10:52:25 UTC] PHP Fatal error:  Uncaught Error: Class "PhpOffice\PhpSpreadsheet\Reader\Xls" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Reader/Xls/Biff5.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Reader/Xls/Biff5.php on line 9
+[11-May-2025 11:33:29 UTC] PHP Fatal error:  Uncaught Error: Class "PhpOffice\PhpSpreadsheet\Reader\Xls" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Reader/Xls/ConditionalFormatting.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Reader/Xls/ConditionalFormatting.php on line 12
+[11-May-2025 11:36:27 UTC] PHP Fatal error:  Uncaught Error: Class "PhpOffice\PhpSpreadsheet\Reader\Xls" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Reader/Xls/ListFunctions.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Reader/Xls/ListFunctions.php on line 10
+[11-May-2025 12:11:27 UTC] PHP Fatal error:  Uncaught Error: Class "PhpOffice\PhpSpreadsheet\Reader\Xls" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Reader/Xls/Biff8.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Reader/Xls/Biff8.php on line 9
+[11-May-2025 12:41:00 UTC] PHP Fatal error:  Uncaught Error: Class "PhpOffice\PhpSpreadsheet\Reader\Xls" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Reader/Xls/Biff8.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Reader/Xls/Biff8.php on line 9
+[11-May-2025 13:02:17 UTC] PHP Fatal error:  Uncaught Error: Class "PhpOffice\PhpSpreadsheet\Reader\Xls" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Reader/Xls/ListFunctions.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Reader/Xls/ListFunctions.php on line 10
+[11-May-2025 13:08:12 UTC] PHP Fatal error:  Uncaught Error: Class "PhpOffice\PhpSpreadsheet\Reader\Xls" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Reader/Xls/Biff5.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Reader/Xls/Biff5.php on line 9
+[11-May-2025 13:09:37 UTC] PHP Fatal error:  Uncaught Error: Class "PhpOffice\PhpSpreadsheet\Reader\Xls" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Reader/Xls/DataValidationHelper.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Reader/Xls/DataValidationHelper.php on line 11
+[11-May-2025 13:43:35 UTC] PHP Fatal error:  Uncaught Error: Class "PhpOffice\PhpSpreadsheet\Reader\Xls" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Reader/Xls/LoadSpreadsheet.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Reader/Xls/LoadSpreadsheet.php on line 18
+[11-May-2025 13:53:09 UTC] PHP Fatal error:  Uncaught Error: Class "PhpOffice\PhpSpreadsheet\Reader\Xls" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Reader/Xls/LoadSpreadsheet.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Reader/Xls/LoadSpreadsheet.php on line 18
+[12-May-2025 13:03:34 UTC] PHP Fatal error:  Uncaught Error: Class "PhpOffice\PhpSpreadsheet\Reader\Xls" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Reader/Xls/ConditionalFormatting.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Reader/Xls/ConditionalFormatting.php on line 12
+[12-May-2025 13:08:35 UTC] PHP Fatal error:  Uncaught Error: Class "PhpOffice\PhpSpreadsheet\Reader\Xls" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Reader/Xls/ListFunctions.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Reader/Xls/ListFunctions.php on line 10
+[13-May-2025 10:35:34 UTC] PHP Fatal error:  Uncaught Error: Class "PhpOffice\PhpSpreadsheet\Reader\Xls" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Reader/Xls/ConditionalFormatting.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Reader/Xls/ConditionalFormatting.php on line 12
+[13-May-2025 10:35:42 UTC] PHP Fatal error:  Uncaught Error: Class "PhpOffice\PhpSpreadsheet\Reader\Xls" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Reader/Xls/Biff5.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Reader/Xls/Biff5.php on line 9
+[13-May-2025 10:37:00 UTC] PHP Fatal error:  Uncaught Error: Class "PhpOffice\PhpSpreadsheet\Reader\Xls" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Reader/Xls/DataValidationHelper.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Reader/Xls/DataValidationHelper.php on line 11
+[13-May-2025 12:18:27 UTC] PHP Fatal error:  Uncaught Error: Class "PhpOffice\PhpSpreadsheet\Reader\Xls" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Reader/Xls/Biff8.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Reader/Xls/Biff8.php on line 9
+[13-May-2025 13:10:10 UTC] PHP Fatal error:  Uncaught Error: Class "PhpOffice\PhpSpreadsheet\Reader\Xls" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Reader/Xls/ListFunctions.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Reader/Xls/ListFunctions.php on line 10
+[13-May-2025 15:52:09 UTC] PHP Fatal error:  Uncaught Error: Class "PhpOffice\PhpSpreadsheet\Reader\Xls" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Reader/Xls/Biff5.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Reader/Xls/Biff5.php on line 9
+[13-May-2025 15:58:16 UTC] PHP Fatal error:  Uncaught Error: Class "PhpOffice\PhpSpreadsheet\Reader\Xls" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Reader/Xls/Biff8.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Reader/Xls/Biff8.php on line 9
+[13-May-2025 16:18:22 UTC] PHP Fatal error:  Uncaught Error: Class "PhpOffice\PhpSpreadsheet\Reader\Xls" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Reader/Xls/LoadSpreadsheet.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Reader/Xls/LoadSpreadsheet.php on line 18
+[13-May-2025 17:25:12 UTC] PHP Fatal error:  Uncaught Error: Class "PhpOffice\PhpSpreadsheet\Reader\Xls" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Reader/Xls/DataValidationHelper.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Reader/Xls/DataValidationHelper.php on line 11
+[13-May-2025 19:43:17 UTC] PHP Fatal error:  Uncaught Error: Class "PhpOffice\PhpSpreadsheet\Reader\Xls" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Reader/Xls/LoadSpreadsheet.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Reader/Xls/LoadSpreadsheet.php on line 18
+[15-May-2025 11:03:01 UTC] PHP Fatal error:  Uncaught Error: Class "PhpOffice\PhpSpreadsheet\Reader\Xls" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Reader/Xls/DataValidationHelper.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Reader/Xls/DataValidationHelper.php on line 11
+[15-May-2025 14:51:44 UTC] PHP Fatal error:  Uncaught Error: Class "PhpOffice\PhpSpreadsheet\Reader\Xls" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Reader/Xls/Biff5.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Reader/Xls/Biff5.php on line 9
+[15-May-2025 14:52:29 UTC] PHP Fatal error:  Uncaught Error: Class "PhpOffice\PhpSpreadsheet\Reader\Xls" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Reader/Xls/ConditionalFormatting.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Reader/Xls/ConditionalFormatting.php on line 12

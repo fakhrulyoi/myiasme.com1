@@ -1,0 +1,80 @@
+[25-Apr-2025 09:12:33 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpOffice\PhpSpreadsheet\Chart\Renderer\IRenderer" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Chart/Renderer/JpGraphRendererBase.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Chart/Renderer/JpGraphRendererBase.php on line 27
+[25-Apr-2025 09:12:57 UTC] PHP Fatal error:  Uncaught Error: Class "PhpOffice\PhpSpreadsheet\Chart\Renderer\JpGraphRendererBase" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Chart/Renderer/MtJpGraphRenderer.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Chart/Renderer/MtJpGraphRenderer.php on line 15
+[25-Apr-2025 09:18:46 UTC] PHP Fatal error:  Uncaught Error: Class "PhpOffice\PhpSpreadsheet\Chart\Renderer\JpGraphRendererBase" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Chart/Renderer/JpGraph.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Chart/Renderer/JpGraph.php on line 16
+[25-Apr-2025 09:44:43 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpOffice\PhpSpreadsheet\Chart\Renderer\IRenderer" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Chart/Renderer/JpGraphRendererBase.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Chart/Renderer/JpGraphRendererBase.php on line 27
+[25-Apr-2025 10:20:07 UTC] PHP Fatal error:  Uncaught Error: Class "PhpOffice\PhpSpreadsheet\Chart\Renderer\JpGraphRendererBase" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Chart/Renderer/MtJpGraphRenderer.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Chart/Renderer/MtJpGraphRenderer.php on line 15
+[25-Apr-2025 10:20:18 UTC] PHP Fatal error:  Uncaught Error: Class "PhpOffice\PhpSpreadsheet\Chart\Renderer\JpGraphRendererBase" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Chart/Renderer/JpGraph.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Chart/Renderer/JpGraph.php on line 16
+[11-May-2025 11:57:19 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpOffice\PhpSpreadsheet\Chart\Renderer\IRenderer" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Chart/Renderer/JpGraphRendererBase.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Chart/Renderer/JpGraphRendererBase.php on line 27
+[11-May-2025 11:57:53 UTC] PHP Fatal error:  Uncaught Error: Class "PhpOffice\PhpSpreadsheet\Chart\Renderer\JpGraphRendererBase" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Chart/Renderer/MtJpGraphRenderer.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Chart/Renderer/MtJpGraphRenderer.php on line 15
+[11-May-2025 12:26:25 UTC] PHP Fatal error:  Uncaught Error: Class "PhpOffice\PhpSpreadsheet\Chart\Renderer\JpGraphRendererBase" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Chart/Renderer/JpGraph.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Chart/Renderer/JpGraph.php on line 16
+[11-May-2025 13:49:41 UTC] PHP Fatal error:  Uncaught Error: Class "PhpOffice\PhpSpreadsheet\Chart\Renderer\JpGraphRendererBase" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Chart/Renderer/MtJpGraphRenderer.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Chart/Renderer/MtJpGraphRenderer.php on line 15
+[11-May-2025 13:50:38 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpOffice\PhpSpreadsheet\Chart\Renderer\IRenderer" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Chart/Renderer/JpGraphRendererBase.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Chart/Renderer/JpGraphRendererBase.php on line 27
+[11-May-2025 14:41:03 UTC] PHP Fatal error:  Uncaught Error: Class "PhpOffice\PhpSpreadsheet\Chart\Renderer\JpGraphRendererBase" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Chart/Renderer/JpGraph.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Chart/Renderer/JpGraph.php on line 16
+[13-May-2025 10:41:58 UTC] PHP Fatal error:  Uncaught Error: Class "PhpOffice\PhpSpreadsheet\Chart\Renderer\JpGraphRendererBase" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Chart/Renderer/JpGraph.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Chart/Renderer/JpGraph.php on line 16
+[13-May-2025 11:43:40 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpOffice\PhpSpreadsheet\Chart\Renderer\IRenderer" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Chart/Renderer/JpGraphRendererBase.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Chart/Renderer/JpGraphRendererBase.php on line 27
+[13-May-2025 11:48:19 UTC] PHP Fatal error:  Uncaught Error: Class "PhpOffice\PhpSpreadsheet\Chart\Renderer\JpGraphRendererBase" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Chart/Renderer/MtJpGraphRenderer.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Chart/Renderer/MtJpGraphRenderer.php on line 15
+[13-May-2025 15:29:21 UTC] PHP Fatal error:  Uncaught Error: Class "PhpOffice\PhpSpreadsheet\Chart\Renderer\JpGraphRendererBase" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Chart/Renderer/MtJpGraphRenderer.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Chart/Renderer/MtJpGraphRenderer.php on line 15
+[13-May-2025 16:43:17 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpOffice\PhpSpreadsheet\Chart\Renderer\IRenderer" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Chart/Renderer/JpGraphRendererBase.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Chart/Renderer/JpGraphRendererBase.php on line 27
+[14-May-2025 02:48:53 UTC] PHP Fatal error:  Uncaught Error: Class "PhpOffice\PhpSpreadsheet\Chart\Renderer\JpGraphRendererBase" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Chart/Renderer/JpGraph.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Chart/Renderer/JpGraph.php on line 16
+[15-May-2025 14:40:28 UTC] PHP Fatal error:  Uncaught Error: Class "PhpOffice\PhpSpreadsheet\Chart\Renderer\JpGraphRendererBase" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Chart/Renderer/MtJpGraphRenderer.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Chart/Renderer/MtJpGraphRenderer.php on line 15
+[15-May-2025 14:42:09 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpOffice\PhpSpreadsheet\Chart\Renderer\IRenderer" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Chart/Renderer/JpGraphRendererBase.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Chart/Renderer/JpGraphRendererBase.php on line 27

@@ -1,0 +1,285 @@
+/**
+ * Winning DNA Page Styles
+ */
+
+/* Card styles */
+.winning-card {
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    border-radius: 8px;
+    border: none;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.winning-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+}
+
+/* Product ranking indicators */
+.rank-indicator {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    font-weight: bold;
+    margin-right: 15px;
+}
+ /* Sidebar styles */
+ .sidebar {
+    width: 260px;
+    background: linear-gradient(135deg, #1E3C72, #2A5298);
+    color: white;
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100vh;
+    z-index: 100;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    overflow-y: auto;
+}
+
+.rank-1 {
+    background-color: rgba(255, 215, 0, 0.2);
+    color: #FFD700;
+}
+
+.rank-2 {
+    background-color: rgba(192, 192, 192, 0.2);
+    color: #C0C0C0;
+}
+
+.rank-3 {
+    background-color: rgba(205, 127, 50, 0.2);
+    color: #CD7F32;
+}
+
+.rank-other {
+    background-color: rgba(65, 105, 225, 0.1);
+    color: #4169E1;
+}
+
+/* Growth indicators */
+.growth-positive {
+    color: #28a745;
+    font-weight: 500;
+}
+
+.growth-negative {
+    color: #dc3545;
+    font-weight: 500;
+}
+
+.growth-neutral {
+    color: #6c757d;
+    font-weight: 500;
+}
+
+/* Product DNA Analysis section */
+.dna-analysis-wrapper {
+    background-color: #f8f9fa;
+    border-radius: 8px;
+    padding: 25px;
+    margin-bottom: 30px;
+}
+
+.attribute-bar {
+    height: 8px;
+    border-radius: 4px;
+    background-color: #e9ecef;
+    margin: 10px 0;
+    overflow: hidden;
+}
+
+.attribute-fill {
+    height: 100%;
+    border-radius: 4px;
+}
+
+.high-impact {
+    background: linear-gradient(90deg, #4169E1, #87CEFA);
+}
+
+.medium-impact {
+    background: linear-gradient(90deg, #28a745, #a3e635);
+}
+
+.low-impact {
+    background: linear-gradient(90deg, #ffc107, #ffe066);
+}
+
+/* Recommendation cards */
+.recommendation-card {
+    height: 100%;
+    position: relative;
+    overflow: hidden;
+}
+@media (max-width: 768px) {
+    .sidebar {
+        width: 70px;
+    }
+    
+    .logo h2, .user-details, .nav-links li a span {
+        display: none;
+    }
+    
+    .nav-links li a i {
+        margin-right: 0;
+    }
+    
+    .main-content {
+        margin-left: 70px;
+        width: calc(100% - 70px);
+    }
+    
+    .filter-row {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+    
+    .date-range, .team-filter {
+        width: 100%;
+    }
+}
+.recommendation-card .card-header {
+    font-weight: 600;
+}
+
+.recommendation-card .corner-ribbon {
+    position: absolute;
+    top: 25px;
+    right: -50px;
+    width: 200px;
+    transform: rotate(45deg);
+    text-align: center;
+    font-size: 12px;
+    font-weight: bold;
+    padding: 5px;
+    z-index: 100;
+}
+
+.critical-action {
+    background-color: #dc3545;
+    color: white;
+}
+
+.important-action {
+    background-color: #ffc107;
+    color: #343a40;
+}
+
+.optional-action {
+    background-color: #17a2b8;
+    color: white;
+}
+
+/* Product heatmap */
+.heatmap-container {
+    padding: 20px;
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.heatmap-legend {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 15px;
+}
+
+.heatmap-legend-item {
+    display: flex;
+    align-items: center;
+    margin: 0 15px;
+}
+
+.heatmap-legend-color {
+    width: 20px;
+    height: 20px;
+    margin-right: 8px;
+    border-radius: 3px;
+}
+
+.heatmap-low {
+    background-color: rgba(0, 0, 255, 0.7);
+}
+
+.heatmap-medium {
+    background-color: rgba(125, 50, 200, 0.7);
+}
+
+.heatmap-high {
+    background-color: rgba(255, 0, 0, 0.7);
+}
+
+/* Search box */
+.search-container {
+    position: relative;
+    max-width: 300px;
+    margin-bottom: 20px;
+}
+
+.search-container .search-icon {
+    position: absolute;
+    left: 10px;
+    top: 50%;
+    transform: translateY(-50%);
+    color: #6c757d;
+}
+
+.search-container input {
+    padding-left: 35px;
+    border-radius: 20px;
+}
+
+/* Comparison feature */
+.compare-products-wrapper {
+    background-color: #f8f9fa;
+    padding: 15px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+}
+
+.compare-checkbox-container {
+    display: inline-block;
+    margin-right: 15px;
+}
+
+/* Responsive adjustments */
+@media (max-width: 767px) {
+    .rank-indicator {
+        width: 30px;
+        height: 30px;
+        font-size: 14px;
+    }
+    
+    .recommendation-card .corner-ribbon {
+        display: none;
+    }
+    
+    .compare-checkbox-container {
+        display: block;
+        margin-bottom: 10px;
+    }
+}
+
+/* Print styles */
+@media print {
+    .no-print {
+        display: none;
+    }
+    
+    .container-fluid {
+        width: 100%;
+        padding: 0;
+    }
+    
+    .card {
+        break-inside: avoid;
+        border: 1px solid #ddd;
+        margin-bottom: 20px;
+    }
+    
+}

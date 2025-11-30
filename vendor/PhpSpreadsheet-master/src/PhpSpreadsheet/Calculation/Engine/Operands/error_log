@@ -1,0 +1,20 @@
+[11-May-2025 14:05:07 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpOffice\PhpSpreadsheet\Calculation\Engine\Operands\Operand" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Calculation/Engine/Operands/StructuredReference.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Calculation/Engine/Operands/StructuredReference.php on line 12
+[11-May-2025 14:21:56 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpOffice\PhpSpreadsheet\Calculation\Engine\Operands\Operand" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Calculation/Engine/Operands/StructuredReference.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Calculation/Engine/Operands/StructuredReference.php on line 12
+[11-May-2025 16:53:03 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpOffice\PhpSpreadsheet\Calculation\Engine\Operands\Operand" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Calculation/Engine/Operands/StructuredReference.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Calculation/Engine/Operands/StructuredReference.php on line 12
+[13-May-2025 15:42:16 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpOffice\PhpSpreadsheet\Calculation\Engine\Operands\Operand" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Calculation/Engine/Operands/StructuredReference.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Calculation/Engine/Operands/StructuredReference.php on line 12
+[13-May-2025 17:49:35 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpOffice\PhpSpreadsheet\Calculation\Engine\Operands\Operand" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Calculation/Engine/Operands/StructuredReference.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Calculation/Engine/Operands/StructuredReference.php on line 12

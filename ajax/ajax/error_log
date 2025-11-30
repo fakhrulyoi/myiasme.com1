@@ -1,0 +1,364 @@
+[22-Apr-2025 11:22:21 UTC] PHP Warning:  include(../includes/db_connect.php): Failed to open stream: No such file or directory in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 3
+[22-Apr-2025 11:22:21 UTC] PHP Warning:  include(): Failed opening '../includes/db_connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 3
+[22-Apr-2025 11:22:21 UTC] PHP Warning:  Undefined variable $conn in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 30
+[22-Apr-2025 11:22:21 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 30
+[22-Apr-2025 11:22:22 UTC] PHP Warning:  include(../includes/db_connect.php): Failed to open stream: No such file or directory in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 3
+[22-Apr-2025 11:22:22 UTC] PHP Warning:  include(): Failed opening '../includes/db_connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 3
+[22-Apr-2025 11:22:22 UTC] PHP Warning:  Undefined variable $conn in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 30
+[22-Apr-2025 11:22:22 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 30
+[22-Apr-2025 12:17:49 UTC] PHP Warning:  include(../includes/db_connect.php): Failed to open stream: No such file or directory in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 3
+[22-Apr-2025 12:17:49 UTC] PHP Warning:  include(): Failed opening '../includes/db_connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 3
+[22-Apr-2025 12:17:49 UTC] PHP Warning:  Undefined variable $conn in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 30
+[22-Apr-2025 12:17:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 30
+[22-Apr-2025 12:17:50 UTC] PHP Warning:  include(../includes/db_connect.php): Failed to open stream: No such file or directory in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 3
+[22-Apr-2025 12:17:50 UTC] PHP Warning:  include(): Failed opening '../includes/db_connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 3
+[22-Apr-2025 12:17:50 UTC] PHP Warning:  Undefined variable $conn in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 30
+[22-Apr-2025 12:17:50 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 30
+[22-Apr-2025 13:23:19 UTC] PHP Warning:  include(../includes/db_connect.php): Failed to open stream: No such file or directory in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 3
+[22-Apr-2025 13:23:19 UTC] PHP Warning:  include(): Failed opening '../includes/db_connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 3
+[22-Apr-2025 13:23:19 UTC] PHP Warning:  Undefined variable $conn in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 30
+[22-Apr-2025 13:23:19 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 30
+[22-Apr-2025 13:23:20 UTC] PHP Warning:  include(../includes/db_connect.php): Failed to open stream: No such file or directory in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 3
+[22-Apr-2025 13:23:20 UTC] PHP Warning:  include(): Failed opening '../includes/db_connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 3
+[22-Apr-2025 13:23:20 UTC] PHP Warning:  Undefined variable $conn in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 30
+[22-Apr-2025 13:23:20 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 30
+[22-Apr-2025 13:53:59 UTC] PHP Warning:  include(../includes/db_connect.php): Failed to open stream: No such file or directory in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 3
+[22-Apr-2025 13:53:59 UTC] PHP Warning:  include(): Failed opening '../includes/db_connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 3
+[22-Apr-2025 13:53:59 UTC] PHP Warning:  Undefined variable $conn in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 30
+[22-Apr-2025 13:53:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 30
+[22-Apr-2025 20:28:14 UTC] PHP Warning:  include(../includes/db_connect.php): Failed to open stream: No such file or directory in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 3
+[22-Apr-2025 20:28:14 UTC] PHP Warning:  include(): Failed opening '../includes/db_connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 3
+[22-Apr-2025 20:28:14 UTC] PHP Warning:  Undefined variable $conn in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 30
+[22-Apr-2025 20:28:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 30
+[22-Apr-2025 20:28:15 UTC] PHP Warning:  include(../includes/db_connect.php): Failed to open stream: No such file or directory in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 3
+[22-Apr-2025 20:28:15 UTC] PHP Warning:  include(): Failed opening '../includes/db_connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 3
+[22-Apr-2025 20:28:15 UTC] PHP Warning:  Undefined variable $conn in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 30
+[22-Apr-2025 20:28:15 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 30
+[22-Apr-2025 22:43:45 UTC] PHP Warning:  include(../includes/db_connect.php): Failed to open stream: No such file or directory in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 3
+[22-Apr-2025 22:43:45 UTC] PHP Warning:  include(): Failed opening '../includes/db_connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 3
+[22-Apr-2025 22:43:45 UTC] PHP Warning:  Undefined variable $conn in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 30
+[22-Apr-2025 22:43:45 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 30
+[22-Apr-2025 22:43:46 UTC] PHP Warning:  include(../includes/db_connect.php): Failed to open stream: No such file or directory in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 3
+[22-Apr-2025 22:43:46 UTC] PHP Warning:  include(): Failed opening '../includes/db_connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 3
+[22-Apr-2025 22:43:46 UTC] PHP Warning:  Undefined variable $conn in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 30
+[22-Apr-2025 22:43:46 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 30
+[22-Apr-2025 23:54:35 UTC] PHP Warning:  include(../includes/db_connect.php): Failed to open stream: No such file or directory in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 3
+[22-Apr-2025 23:54:35 UTC] PHP Warning:  include(): Failed opening '../includes/db_connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 3
+[22-Apr-2025 23:54:35 UTC] PHP Warning:  Undefined variable $conn in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 30
+[22-Apr-2025 23:54:35 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 30
+[23-Apr-2025 00:15:18 UTC] PHP Warning:  include(../includes/db_connect.php): Failed to open stream: No such file or directory in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 3
+[23-Apr-2025 00:15:18 UTC] PHP Warning:  include(): Failed opening '../includes/db_connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 3
+[23-Apr-2025 00:15:18 UTC] PHP Warning:  Undefined variable $conn in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 30
+[23-Apr-2025 00:15:18 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 30
+[23-Apr-2025 00:15:19 UTC] PHP Warning:  include(../includes/db_connect.php): Failed to open stream: No such file or directory in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 3
+[23-Apr-2025 00:15:19 UTC] PHP Warning:  include(): Failed opening '../includes/db_connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 3
+[23-Apr-2025 00:15:19 UTC] PHP Warning:  Undefined variable $conn in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 30
+[23-Apr-2025 00:15:19 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 30
+[23-Apr-2025 01:05:25 UTC] PHP Warning:  include(../includes/db_connect.php): Failed to open stream: No such file or directory in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 3
+[23-Apr-2025 01:05:25 UTC] PHP Warning:  include(): Failed opening '../includes/db_connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 3
+[23-Apr-2025 01:05:25 UTC] PHP Warning:  Undefined variable $conn in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 30
+[23-Apr-2025 01:05:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 30
+[23-Apr-2025 01:24:11 UTC] PHP Warning:  include(../includes/db_connect.php): Failed to open stream: No such file or directory in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 3
+[23-Apr-2025 01:24:11 UTC] PHP Warning:  include(): Failed opening '../includes/db_connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 3
+[23-Apr-2025 01:24:11 UTC] PHP Warning:  Undefined variable $conn in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 30
+[23-Apr-2025 01:24:11 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 30
+[23-Apr-2025 01:24:12 UTC] PHP Warning:  include(../includes/db_connect.php): Failed to open stream: No such file or directory in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 3
+[23-Apr-2025 01:24:12 UTC] PHP Warning:  include(): Failed opening '../includes/db_connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 3
+[23-Apr-2025 01:24:12 UTC] PHP Warning:  Undefined variable $conn in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 30
+[23-Apr-2025 01:24:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 30
+[23-Apr-2025 02:23:34 UTC] PHP Warning:  include(../includes/db_connect.php): Failed to open stream: No such file or directory in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 3
+[23-Apr-2025 02:23:34 UTC] PHP Warning:  include(): Failed opening '../includes/db_connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 3
+[23-Apr-2025 02:23:34 UTC] PHP Warning:  Undefined variable $conn in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 30
+[23-Apr-2025 02:23:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 30
+[23-Apr-2025 02:23:35 UTC] PHP Warning:  include(../includes/db_connect.php): Failed to open stream: No such file or directory in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 3
+[23-Apr-2025 02:23:35 UTC] PHP Warning:  include(): Failed opening '../includes/db_connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 3
+[23-Apr-2025 02:23:35 UTC] PHP Warning:  Undefined variable $conn in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 30
+[23-Apr-2025 02:23:35 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 30
+[23-Apr-2025 02:56:09 UTC] PHP Warning:  include(../includes/db_connect.php): Failed to open stream: No such file or directory in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 3
+[23-Apr-2025 02:56:09 UTC] PHP Warning:  include(): Failed opening '../includes/db_connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 3
+[23-Apr-2025 02:56:09 UTC] PHP Warning:  Undefined variable $conn in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 30
+[23-Apr-2025 02:56:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 30
+[23-Apr-2025 03:51:38 UTC] PHP Warning:  include(../includes/db_connect.php): Failed to open stream: No such file or directory in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 3
+[23-Apr-2025 03:51:38 UTC] PHP Warning:  include(): Failed opening '../includes/db_connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 3
+[23-Apr-2025 03:51:38 UTC] PHP Warning:  Undefined variable $conn in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 30
+[23-Apr-2025 03:51:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 30
+[23-Apr-2025 03:51:39 UTC] PHP Warning:  include(../includes/db_connect.php): Failed to open stream: No such file or directory in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 3
+[23-Apr-2025 03:51:39 UTC] PHP Warning:  include(): Failed opening '../includes/db_connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 3
+[23-Apr-2025 03:51:39 UTC] PHP Warning:  Undefined variable $conn in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 30
+[23-Apr-2025 03:51:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 30
+[23-Apr-2025 03:54:14 UTC] PHP Warning:  include(../includes/db_connect.php): Failed to open stream: No such file or directory in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 3
+[23-Apr-2025 03:54:14 UTC] PHP Warning:  include(): Failed opening '../includes/db_connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 3
+[23-Apr-2025 03:54:14 UTC] PHP Warning:  Undefined variable $conn in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 30
+[23-Apr-2025 03:54:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 30
+[23-Apr-2025 05:25:46 UTC] PHP Warning:  include(../includes/db_connect.php): Failed to open stream: No such file or directory in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 3
+[23-Apr-2025 05:25:46 UTC] PHP Warning:  include(): Failed opening '../includes/db_connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 3
+[23-Apr-2025 05:25:46 UTC] PHP Warning:  Undefined variable $conn in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 30
+[23-Apr-2025 05:25:46 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 30
+[23-Apr-2025 05:36:34 UTC] PHP Warning:  include(../includes/db_connect.php): Failed to open stream: No such file or directory in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 3
+[23-Apr-2025 05:36:34 UTC] PHP Warning:  include(): Failed opening '../includes/db_connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 3
+[23-Apr-2025 05:36:34 UTC] PHP Warning:  Undefined variable $conn in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 30
+[23-Apr-2025 05:36:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 30
+[23-Apr-2025 05:36:35 UTC] PHP Warning:  include(../includes/db_connect.php): Failed to open stream: No such file or directory in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 3
+[23-Apr-2025 05:36:35 UTC] PHP Warning:  include(): Failed opening '../includes/db_connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 3
+[23-Apr-2025 05:36:35 UTC] PHP Warning:  Undefined variable $conn in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 30
+[23-Apr-2025 05:36:35 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 30
+[23-Apr-2025 10:43:38 UTC] PHP Warning:  include(../includes/db_connect.php): Failed to open stream: No such file or directory in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 3
+[23-Apr-2025 10:43:38 UTC] PHP Warning:  include(): Failed opening '../includes/db_connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 3
+[23-Apr-2025 10:43:38 UTC] PHP Warning:  Undefined variable $conn in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 30
+[23-Apr-2025 10:43:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 30
+[23-Apr-2025 10:43:39 UTC] PHP Warning:  include(../includes/db_connect.php): Failed to open stream: No such file or directory in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 3
+[23-Apr-2025 10:43:39 UTC] PHP Warning:  include(): Failed opening '../includes/db_connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 3
+[23-Apr-2025 10:43:39 UTC] PHP Warning:  Undefined variable $conn in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 30
+[23-Apr-2025 10:43:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 30
+[23-Apr-2025 15:23:52 UTC] PHP Warning:  include(../includes/db_connect.php): Failed to open stream: No such file or directory in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 3
+[23-Apr-2025 15:23:52 UTC] PHP Warning:  include(): Failed opening '../includes/db_connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 3
+[23-Apr-2025 15:23:52 UTC] PHP Warning:  Undefined variable $conn in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 30
+[23-Apr-2025 15:23:52 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 30
+[23-Apr-2025 15:23:53 UTC] PHP Warning:  include(../includes/db_connect.php): Failed to open stream: No such file or directory in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 3
+[23-Apr-2025 15:23:53 UTC] PHP Warning:  include(): Failed opening '../includes/db_connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 3
+[23-Apr-2025 15:23:53 UTC] PHP Warning:  Undefined variable $conn in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 30
+[23-Apr-2025 15:23:53 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 30
+[23-Apr-2025 16:21:52 UTC] PHP Warning:  include(../includes/db_connect.php): Failed to open stream: No such file or directory in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 3
+[23-Apr-2025 16:21:52 UTC] PHP Warning:  include(): Failed opening '../includes/db_connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 3
+[23-Apr-2025 16:21:52 UTC] PHP Warning:  Undefined variable $conn in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 30
+[23-Apr-2025 16:21:52 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 30
+[23-Apr-2025 16:21:53 UTC] PHP Warning:  include(../includes/db_connect.php): Failed to open stream: No such file or directory in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 3
+[23-Apr-2025 16:21:53 UTC] PHP Warning:  include(): Failed opening '../includes/db_connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 3
+[23-Apr-2025 16:21:53 UTC] PHP Warning:  Undefined variable $conn in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 30
+[23-Apr-2025 16:21:53 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 30
+[23-Apr-2025 16:43:30 UTC] PHP Warning:  include(../includes/db_connect.php): Failed to open stream: No such file or directory in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 3
+[23-Apr-2025 16:43:30 UTC] PHP Warning:  include(): Failed opening '../includes/db_connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 3
+[23-Apr-2025 16:43:30 UTC] PHP Warning:  Undefined variable $conn in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 30
+[23-Apr-2025 16:43:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 30
+[23-Apr-2025 17:06:57 UTC] PHP Warning:  include(../includes/db_connect.php): Failed to open stream: No such file or directory in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 3
+[23-Apr-2025 17:06:57 UTC] PHP Warning:  include(): Failed opening '../includes/db_connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 3
+[23-Apr-2025 17:06:57 UTC] PHP Warning:  Undefined variable $conn in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 30
+[23-Apr-2025 17:06:57 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 30
+[23-Apr-2025 17:30:07 UTC] PHP Warning:  include(../includes/db_connect.php): Failed to open stream: No such file or directory in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 3
+[23-Apr-2025 17:30:07 UTC] PHP Warning:  include(): Failed opening '../includes/db_connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 3
+[23-Apr-2025 17:30:07 UTC] PHP Warning:  Undefined variable $conn in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 30
+[23-Apr-2025 17:30:07 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 30
+[23-Apr-2025 17:30:08 UTC] PHP Warning:  include(../includes/db_connect.php): Failed to open stream: No such file or directory in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 3
+[23-Apr-2025 17:30:08 UTC] PHP Warning:  include(): Failed opening '../includes/db_connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 3
+[23-Apr-2025 17:30:08 UTC] PHP Warning:  Undefined variable $conn in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 30
+[23-Apr-2025 17:30:08 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 30
+[23-Apr-2025 18:24:54 UTC] PHP Warning:  include(../includes/db_connect.php): Failed to open stream: No such file or directory in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 3
+[23-Apr-2025 18:24:54 UTC] PHP Warning:  include(): Failed opening '../includes/db_connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 3
+[23-Apr-2025 18:24:54 UTC] PHP Warning:  Undefined variable $conn in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 30
+[23-Apr-2025 18:24:54 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 30
+[23-Apr-2025 18:24:55 UTC] PHP Warning:  include(../includes/db_connect.php): Failed to open stream: No such file or directory in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 3
+[23-Apr-2025 18:24:55 UTC] PHP Warning:  include(): Failed opening '../includes/db_connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 3
+[23-Apr-2025 18:24:55 UTC] PHP Warning:  Undefined variable $conn in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 30
+[23-Apr-2025 18:24:55 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 30
+[23-Apr-2025 19:00:34 UTC] PHP Warning:  include(../includes/db_connect.php): Failed to open stream: No such file or directory in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 3
+[23-Apr-2025 19:00:34 UTC] PHP Warning:  include(): Failed opening '../includes/db_connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 3
+[23-Apr-2025 19:00:34 UTC] PHP Warning:  Undefined variable $conn in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 30
+[23-Apr-2025 19:00:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 30
+[25-Apr-2025 05:16:44 UTC] PHP Warning:  include(../includes/db_connect.php): Failed to open stream: No such file or directory in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 3
+[25-Apr-2025 05:16:44 UTC] PHP Warning:  include(): Failed opening '../includes/db_connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 3
+[25-Apr-2025 05:16:44 UTC] PHP Warning:  Undefined variable $conn in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 30
+[25-Apr-2025 05:16:44 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 30
+[25-Apr-2025 05:58:30 UTC] PHP Warning:  include(../includes/db_connect.php): Failed to open stream: No such file or directory in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 3
+[25-Apr-2025 05:58:30 UTC] PHP Warning:  include(): Failed opening '../includes/db_connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 3
+[25-Apr-2025 05:58:30 UTC] PHP Warning:  Undefined variable $conn in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 30
+[25-Apr-2025 05:58:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 30
+[25-Apr-2025 06:44:56 UTC] PHP Warning:  include(../includes/db_connect.php): Failed to open stream: No such file or directory in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 3
+[25-Apr-2025 06:44:56 UTC] PHP Warning:  include(): Failed opening '../includes/db_connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 3
+[25-Apr-2025 06:44:56 UTC] PHP Warning:  Undefined variable $conn in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 30
+[25-Apr-2025 06:44:56 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 30
+[25-Apr-2025 07:12:05 UTC] PHP Warning:  include(../includes/db_connect.php): Failed to open stream: No such file or directory in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 3
+[25-Apr-2025 07:12:05 UTC] PHP Warning:  include(): Failed opening '../includes/db_connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 3
+[25-Apr-2025 07:12:05 UTC] PHP Warning:  Undefined variable $conn in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 30
+[25-Apr-2025 07:12:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 30
+[25-Apr-2025 08:21:15 UTC] PHP Warning:  include(../includes/db_connect.php): Failed to open stream: No such file or directory in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 3
+[25-Apr-2025 08:21:15 UTC] PHP Warning:  include(): Failed opening '../includes/db_connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 3
+[25-Apr-2025 08:21:15 UTC] PHP Warning:  Undefined variable $conn in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 30
+[25-Apr-2025 08:21:15 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 30
+[06-May-2025 22:48:18 UTC] PHP Warning:  include(../includes/db_connect.php): Failed to open stream: No such file or directory in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 3
+[06-May-2025 22:48:18 UTC] PHP Warning:  include(): Failed opening '../includes/db_connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 3
+[06-May-2025 22:48:18 UTC] PHP Warning:  Undefined variable $conn in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 30
+[06-May-2025 22:48:18 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 30
+[08-May-2025 14:51:05 UTC] PHP Warning:  include(../includes/db_connect.php): Failed to open stream: No such file or directory in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 3
+[08-May-2025 14:51:05 UTC] PHP Warning:  include(): Failed opening '../includes/db_connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 3
+[08-May-2025 14:51:05 UTC] PHP Warning:  Undefined variable $conn in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 30
+[08-May-2025 14:51:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 30
+[08-May-2025 22:45:25 UTC] PHP Warning:  include(../includes/db_connect.php): Failed to open stream: No such file or directory in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 3
+[08-May-2025 22:45:25 UTC] PHP Warning:  include(): Failed opening '../includes/db_connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 3
+[08-May-2025 22:45:25 UTC] PHP Warning:  Undefined variable $conn in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 30
+[08-May-2025 22:45:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 30
+[10-May-2025 14:33:59 UTC] PHP Warning:  include(../includes/db_connect.php): Failed to open stream: No such file or directory in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 3
+[10-May-2025 14:33:59 UTC] PHP Warning:  include(): Failed opening '../includes/db_connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 3
+[10-May-2025 14:33:59 UTC] PHP Warning:  Undefined variable $conn in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 30
+[10-May-2025 14:33:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 30
+[10-May-2025 23:09:18 UTC] PHP Warning:  include(../includes/db_connect.php): Failed to open stream: No such file or directory in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 3
+[10-May-2025 23:09:18 UTC] PHP Warning:  include(): Failed opening '../includes/db_connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 3
+[10-May-2025 23:09:18 UTC] PHP Warning:  Undefined variable $conn in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 30
+[10-May-2025 23:09:18 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 30
+[12-May-2025 14:38:40 UTC] PHP Warning:  include(../includes/db_connect.php): Failed to open stream: No such file or directory in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 3
+[12-May-2025 14:38:40 UTC] PHP Warning:  include(): Failed opening '../includes/db_connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 3
+[12-May-2025 14:38:40 UTC] PHP Warning:  Undefined variable $conn in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 30
+[12-May-2025 14:38:40 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 30
+[01-Jul-2025 20:24:57 UTC] PHP Warning:  include(../includes/db_connect.php): Failed to open stream: No such file or directory in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 3
+[01-Jul-2025 20:24:57 UTC] PHP Warning:  include(): Failed opening '../includes/db_connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 3
+[01-Jul-2025 20:24:57 UTC] PHP Warning:  Undefined variable $conn in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 30
+[01-Jul-2025 20:24:57 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 30
+[12-Aug-2025 07:56:22 UTC] PHP Warning:  include(../includes/db_connect.php): Failed to open stream: No such file or directory in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 3
+[12-Aug-2025 07:56:22 UTC] PHP Warning:  include(): Failed opening '../includes/db_connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 3
+[12-Aug-2025 07:56:22 UTC] PHP Warning:  Undefined variable $conn in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 30
+[12-Aug-2025 07:56:22 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/ajax/ajax/product_heatmap_data.php on line 30

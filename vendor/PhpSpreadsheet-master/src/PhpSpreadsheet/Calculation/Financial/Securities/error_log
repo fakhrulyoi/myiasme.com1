@@ -1,0 +1,24 @@
+[25-Apr-2025 10:30:22 UTC] PHP Fatal error:  Uncaught Error: Class "PhpOffice\PhpSpreadsheet\Calculation\Financial\FinancialValidations" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Calculation/Financial/Securities/SecurityValidations.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Calculation/Financial/Securities/SecurityValidations.php on line 9
+[25-Apr-2025 11:29:16 UTC] PHP Fatal error:  Uncaught Error: Class "PhpOffice\PhpSpreadsheet\Calculation\Financial\FinancialValidations" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Calculation/Financial/Securities/SecurityValidations.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Calculation/Financial/Securities/SecurityValidations.php on line 9
+[11-May-2025 13:54:35 UTC] PHP Fatal error:  Uncaught Error: Class "PhpOffice\PhpSpreadsheet\Calculation\Financial\FinancialValidations" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Calculation/Financial/Securities/SecurityValidations.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Calculation/Financial/Securities/SecurityValidations.php on line 9
+[11-May-2025 16:07:04 UTC] PHP Fatal error:  Uncaught Error: Class "PhpOffice\PhpSpreadsheet\Calculation\Financial\FinancialValidations" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Calculation/Financial/Securities/SecurityValidations.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Calculation/Financial/Securities/SecurityValidations.php on line 9
+[11-May-2025 17:58:23 UTC] PHP Fatal error:  Uncaught Error: Class "PhpOffice\PhpSpreadsheet\Calculation\Financial\FinancialValidations" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Calculation/Financial/Securities/SecurityValidations.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Calculation/Financial/Securities/SecurityValidations.php on line 9
+[13-May-2025 17:26:23 UTC] PHP Fatal error:  Uncaught Error: Class "PhpOffice\PhpSpreadsheet\Calculation\Financial\FinancialValidations" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Calculation/Financial/Securities/SecurityValidations.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Calculation/Financial/Securities/SecurityValidations.php on line 9

@@ -1,0 +1,38 @@
+[13-May-2025 02:55:57 UTC] STARTING PROCESS: SKU: 3, Current Global Stock: 0, Unit Sold: 1
+[13-May-2025 02:55:57 UTC] UPDATING EXISTING ENTRY: ID: 446, Previous Units Sold: 0, New Units Sold: 1
+[13-May-2025 02:55:57 UTC] UPDATE STOCK CHANGE: Previous: 0, New: 1, Change: 1, New Global Stock: -1
+[13-May-2025 02:55:57 UTC] UPDATING ALL PRODUCTS: SKU: 3, New Stock: -1, Status: Negative Stock
+[13-May-2025 02:56:26 UTC] STARTING PROCESS: SKU: 3, Current Global Stock: -1, Unit Sold: 1
+[13-May-2025 02:56:26 UTC] INSERTING NEW ENTRY: New Units Sold: 1
+[13-May-2025 02:56:26 UTC] INSERT STOCK CHANGE: Units Sold: 1, New Global Stock: -2
+[13-May-2025 02:56:26 UTC] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/flippecc/public_html/myiasme.com/save_product.php:131
+Stack trace:
+#0 /home/flippecc/public_html/myiasme.com/save_product.php(131): mysqli_stmt->bind_param('ssdididddddssi', '3', 'cuba', 1.08, 1, 1.08, 1, 4.0, 4.0, 10, 1.0, -14.08, 14.0, '2025-05-10', NULL, 23)
+#1 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/save_product.php on line 131
+[13-May-2025 02:56:34 UTC] STARTING PROCESS: SKU: 3, Current Global Stock: -1, Unit Sold: 1
+[13-May-2025 02:56:34 UTC] INSERTING NEW ENTRY: New Units Sold: 1
+[13-May-2025 02:56:34 UTC] INSERT STOCK CHANGE: Units Sold: 1, New Global Stock: -2
+[13-May-2025 02:56:34 UTC] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/flippecc/public_html/myiasme.com/save_product.php:131
+Stack trace:
+#0 /home/flippecc/public_html/myiasme.com/save_product.php(131): mysqli_stmt->bind_param('ssdididddddssi', '3', 'cuba', 1.08, 1, 1.08, 1, 4.0, 4.0, 10, 1.0, -14.08, 14.0, '2025-05-11', NULL, 23)
+#1 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/save_product.php on line 131
+[13-May-2025 02:56:43 UTC] STARTING PROCESS: SKU: 3, Current Global Stock: -1, Unit Sold: 1
+[13-May-2025 02:56:43 UTC] INSERTING NEW ENTRY: New Units Sold: 1
+[13-May-2025 02:56:43 UTC] INSERT STOCK CHANGE: Units Sold: 1, New Global Stock: -2
+[13-May-2025 02:56:43 UTC] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/flippecc/public_html/myiasme.com/save_product.php:131
+Stack trace:
+#0 /home/flippecc/public_html/myiasme.com/save_product.php(131): mysqli_stmt->bind_param('ssdididddddssi', '3', 'cuba', 1.08, 1, 1.08, 1, 4.0, 4.0, 10, 1.0, -14.08, 14.0, '2025-05-11', NULL, 23)
+#1 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/save_product.php on line 131
+[13-May-2025 02:58:46 UTC] STARTING PROCESS: SKU: 3, Current Global Stock: -1, Unit Sold: 1
+[13-May-2025 02:58:46 UTC] INSERTING NEW ENTRY: New Units Sold: 1
+[13-May-2025 02:58:46 UTC] INSERT STOCK CHANGE: Units Sold: 1, New Global Stock: -2
+[13-May-2025 02:58:46 UTC] UPDATING ALL PRODUCTS: SKU: 3, New Stock: -2, Status: Negative Stock
+[13-May-2025 03:02:39 UTC] INSERTING NEW ENTRY: New Units Sold: 1
+[13-May-2025 03:02:39 UTC] RECALCULATED STOCK: Total Units Sold: 1, New Global Stock: -1
+[13-May-2025 03:02:39 UTC] UPDATING ALL PRODUCTS: SKU: 1, New Stock: -1, Status: Negative Stock
+[13-May-2025 03:02:50 UTC] INSERTING NEW ENTRY: New Units Sold: 1
+[13-May-2025 03:02:50 UTC] RECALCULATED STOCK: Total Units Sold: 2, New Global Stock: -2
+[13-May-2025 03:02:50 UTC] UPDATING ALL PRODUCTS: SKU: 1, New Stock: -2, Status: Negative Stock

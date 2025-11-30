@@ -1,0 +1,2240 @@
+[22-Apr-2025 11:23:21 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDFBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_html.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_html.php on line 50
+[22-Apr-2025 11:23:22 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDFBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_html.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_html.php on line 50
+[22-Apr-2025 11:23:22 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDFBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_png.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_png.php on line 49
+[22-Apr-2025 11:23:23 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDFBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_png.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_png.php on line 49
+[22-Apr-2025 11:23:24 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDFBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_svg.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_svg.php on line 50
+[22-Apr-2025 11:23:25 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDFBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_svg.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_svg.php on line 50
+[22-Apr-2025 11:23:25 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDFBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_svgi.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_svgi.php on line 50
+[22-Apr-2025 11:23:26 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDFBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_svgi.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_svgi.php on line 50
+[22-Apr-2025 11:23:27 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_html.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_html.php on line 50
+[22-Apr-2025 11:23:28 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_html.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_html.php on line 50
+[22-Apr-2025 11:23:28 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_png.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_png.php on line 49
+[22-Apr-2025 11:23:29 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_png.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_png.php on line 49
+[22-Apr-2025 11:23:30 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_svg.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_svg.php on line 50
+[22-Apr-2025 11:23:31 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_svg.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_svg.php on line 50
+[22-Apr-2025 11:23:32 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_svgi.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_svgi.php on line 50
+[22-Apr-2025 11:23:33 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_svgi.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_svgi.php on line 50
+[22-Apr-2025 11:23:33 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_html.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_html.php on line 50
+[22-Apr-2025 11:23:34 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_html.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_html.php on line 50
+[22-Apr-2025 11:23:35 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_png.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_png.php on line 49
+[22-Apr-2025 11:23:36 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_png.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_png.php on line 49
+[22-Apr-2025 11:23:36 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_svg.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_svg.php on line 50
+[22-Apr-2025 11:23:37 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_svg.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_svg.php on line 50
+[22-Apr-2025 11:23:38 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_svgi.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_svgi.php on line 50
+[22-Apr-2025 11:23:39 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_svgi.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_svgi.php on line 50
+[22-Apr-2025 11:23:39 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_html.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_html.php on line 49
+[22-Apr-2025 11:23:40 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_html.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_html.php on line 49
+[22-Apr-2025 11:23:41 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_png.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_png.php on line 49
+[22-Apr-2025 11:23:42 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_png.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_png.php on line 49
+[22-Apr-2025 11:23:42 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_svg.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_svg.php on line 49
+[22-Apr-2025 11:23:43 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_svg.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_svg.php on line 49
+[22-Apr-2025 11:23:44 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_svgi.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_svgi.php on line 49
+[22-Apr-2025 11:23:45 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_svgi.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_svgi.php on line 49
+[22-Apr-2025 12:17:54 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDFBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_html.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_html.php on line 50
+[22-Apr-2025 12:17:55 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDFBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_html.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_html.php on line 50
+[22-Apr-2025 12:17:55 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDFBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_png.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_png.php on line 49
+[22-Apr-2025 12:17:56 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDFBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_png.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_png.php on line 49
+[22-Apr-2025 12:17:56 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDFBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_svg.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_svg.php on line 50
+[22-Apr-2025 12:17:57 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDFBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_svg.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_svg.php on line 50
+[22-Apr-2025 12:17:57 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDFBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_svgi.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_svgi.php on line 50
+[22-Apr-2025 12:17:58 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDFBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_svgi.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_svgi.php on line 50
+[22-Apr-2025 12:17:58 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_html.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_html.php on line 50
+[22-Apr-2025 12:17:59 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_html.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_html.php on line 50
+[22-Apr-2025 12:17:59 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_png.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_png.php on line 49
+[22-Apr-2025 12:18:00 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_png.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_png.php on line 49
+[22-Apr-2025 12:18:00 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_svg.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_svg.php on line 50
+[22-Apr-2025 12:18:01 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_svg.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_svg.php on line 50
+[22-Apr-2025 12:18:01 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_svgi.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_svgi.php on line 50
+[22-Apr-2025 12:18:02 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_svgi.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_svgi.php on line 50
+[22-Apr-2025 12:18:02 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_html.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_html.php on line 50
+[22-Apr-2025 12:18:03 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_html.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_html.php on line 50
+[22-Apr-2025 12:18:03 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_png.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_png.php on line 49
+[22-Apr-2025 12:18:04 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_png.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_png.php on line 49
+[22-Apr-2025 12:18:04 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_svg.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_svg.php on line 50
+[22-Apr-2025 12:18:05 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_svg.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_svg.php on line 50
+[22-Apr-2025 12:18:05 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_svgi.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_svgi.php on line 50
+[22-Apr-2025 12:18:06 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_svgi.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_svgi.php on line 50
+[22-Apr-2025 12:18:06 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_html.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_html.php on line 49
+[22-Apr-2025 12:18:08 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_html.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_html.php on line 49
+[22-Apr-2025 12:18:08 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_png.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_png.php on line 49
+[22-Apr-2025 12:18:09 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_png.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_png.php on line 49
+[22-Apr-2025 12:18:09 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_svg.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_svg.php on line 49
+[22-Apr-2025 12:18:10 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_svg.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_svg.php on line 49
+[22-Apr-2025 12:18:10 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_svgi.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_svgi.php on line 49
+[22-Apr-2025 12:18:11 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_svgi.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_svgi.php on line 49
+[22-Apr-2025 13:24:19 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDFBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_html.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_html.php on line 50
+[22-Apr-2025 13:24:20 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDFBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_html.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_html.php on line 50
+[22-Apr-2025 13:24:20 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDFBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_png.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_png.php on line 49
+[22-Apr-2025 13:24:21 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDFBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_png.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_png.php on line 49
+[22-Apr-2025 13:24:22 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDFBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_svg.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_svg.php on line 50
+[22-Apr-2025 13:24:23 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDFBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_svg.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_svg.php on line 50
+[22-Apr-2025 13:24:23 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDFBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_svgi.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_svgi.php on line 50
+[22-Apr-2025 13:24:24 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDFBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_svgi.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_svgi.php on line 50
+[22-Apr-2025 13:24:25 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_html.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_html.php on line 50
+[22-Apr-2025 13:24:26 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_html.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_html.php on line 50
+[22-Apr-2025 13:24:26 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_png.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_png.php on line 49
+[22-Apr-2025 13:24:27 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_png.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_png.php on line 49
+[22-Apr-2025 13:24:28 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_svg.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_svg.php on line 50
+[22-Apr-2025 13:24:29 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_svg.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_svg.php on line 50
+[22-Apr-2025 13:24:29 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_svgi.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_svgi.php on line 50
+[22-Apr-2025 13:24:30 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_svgi.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_svgi.php on line 50
+[22-Apr-2025 13:24:31 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_html.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_html.php on line 50
+[22-Apr-2025 13:24:32 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_html.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_html.php on line 50
+[22-Apr-2025 13:24:32 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_png.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_png.php on line 49
+[22-Apr-2025 13:24:33 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_png.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_png.php on line 49
+[22-Apr-2025 13:24:34 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_svg.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_svg.php on line 50
+[22-Apr-2025 13:24:35 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_svg.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_svg.php on line 50
+[22-Apr-2025 13:24:35 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_svgi.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_svgi.php on line 50
+[22-Apr-2025 13:24:36 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_svgi.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_svgi.php on line 50
+[22-Apr-2025 13:24:37 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_html.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_html.php on line 49
+[22-Apr-2025 13:24:38 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_html.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_html.php on line 49
+[22-Apr-2025 13:24:38 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_png.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_png.php on line 49
+[22-Apr-2025 13:24:39 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_png.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_png.php on line 49
+[22-Apr-2025 13:24:40 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_svg.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_svg.php on line 49
+[22-Apr-2025 13:24:41 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_svg.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_svg.php on line 49
+[22-Apr-2025 13:24:41 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_svgi.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_svgi.php on line 49
+[22-Apr-2025 13:24:42 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_svgi.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_svgi.php on line 49
+[22-Apr-2025 20:28:56 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDFBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_html.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_html.php on line 50
+[22-Apr-2025 20:28:57 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDFBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_html.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_html.php on line 50
+[22-Apr-2025 20:28:57 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDFBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_png.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_png.php on line 49
+[22-Apr-2025 20:28:58 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDFBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_png.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_png.php on line 49
+[22-Apr-2025 20:28:58 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDFBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_svg.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_svg.php on line 50
+[22-Apr-2025 20:28:59 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDFBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_svg.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_svg.php on line 50
+[22-Apr-2025 20:29:00 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDFBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_svgi.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_svgi.php on line 50
+[22-Apr-2025 20:29:01 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDFBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_svgi.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_svgi.php on line 50
+[22-Apr-2025 20:29:01 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_html.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_html.php on line 50
+[22-Apr-2025 20:29:02 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_html.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_html.php on line 50
+[22-Apr-2025 20:29:02 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_png.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_png.php on line 49
+[22-Apr-2025 20:29:03 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_png.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_png.php on line 49
+[22-Apr-2025 20:29:04 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_svg.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_svg.php on line 50
+[22-Apr-2025 20:29:05 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_svg.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_svg.php on line 50
+[22-Apr-2025 20:29:05 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_svgi.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_svgi.php on line 50
+[22-Apr-2025 20:29:06 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_svgi.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_svgi.php on line 50
+[22-Apr-2025 20:29:06 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_html.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_html.php on line 50
+[22-Apr-2025 20:29:08 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_html.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_html.php on line 50
+[22-Apr-2025 20:29:08 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_png.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_png.php on line 49
+[22-Apr-2025 20:29:09 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_png.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_png.php on line 49
+[22-Apr-2025 20:29:09 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_svg.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_svg.php on line 50
+[22-Apr-2025 20:29:10 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_svg.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_svg.php on line 50
+[22-Apr-2025 20:29:10 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_svgi.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_svgi.php on line 50
+[22-Apr-2025 20:29:12 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_svgi.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_svgi.php on line 50
+[22-Apr-2025 20:29:12 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_html.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_html.php on line 49
+[22-Apr-2025 20:29:13 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_html.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_html.php on line 49
+[22-Apr-2025 20:29:13 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_png.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_png.php on line 49
+[22-Apr-2025 20:29:14 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_png.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_png.php on line 49
+[22-Apr-2025 20:29:14 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_svg.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_svg.php on line 49
+[22-Apr-2025 20:29:16 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_svg.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_svg.php on line 49
+[22-Apr-2025 20:29:16 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_svgi.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_svgi.php on line 49
+[22-Apr-2025 20:29:17 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_svgi.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_svgi.php on line 49
+[22-Apr-2025 22:44:31 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDFBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_html.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_html.php on line 50
+[22-Apr-2025 22:44:33 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDFBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_html.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_html.php on line 50
+[22-Apr-2025 22:44:33 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDFBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_png.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_png.php on line 49
+[22-Apr-2025 22:44:34 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDFBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_png.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_png.php on line 49
+[22-Apr-2025 22:44:34 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDFBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_svg.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_svg.php on line 50
+[22-Apr-2025 22:44:35 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDFBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_svg.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_svg.php on line 50
+[22-Apr-2025 22:44:36 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDFBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_svgi.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_svgi.php on line 50
+[22-Apr-2025 22:44:37 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDFBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_svgi.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_svgi.php on line 50
+[22-Apr-2025 22:44:37 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_html.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_html.php on line 50
+[22-Apr-2025 22:44:38 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_html.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_html.php on line 50
+[22-Apr-2025 22:44:38 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_png.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_png.php on line 49
+[22-Apr-2025 22:44:40 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_png.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_png.php on line 49
+[22-Apr-2025 22:44:40 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_svg.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_svg.php on line 50
+[22-Apr-2025 22:44:41 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_svg.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_svg.php on line 50
+[22-Apr-2025 22:44:41 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_svgi.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_svgi.php on line 50
+[22-Apr-2025 22:44:42 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_svgi.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_svgi.php on line 50
+[22-Apr-2025 22:44:42 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_html.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_html.php on line 50
+[22-Apr-2025 22:44:44 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_html.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_html.php on line 50
+[22-Apr-2025 22:44:44 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_png.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_png.php on line 49
+[22-Apr-2025 22:44:45 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_png.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_png.php on line 49
+[22-Apr-2025 22:44:45 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_svg.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_svg.php on line 50
+[22-Apr-2025 22:44:46 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_svg.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_svg.php on line 50
+[22-Apr-2025 22:44:47 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_svgi.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_svgi.php on line 50
+[22-Apr-2025 22:44:48 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_svgi.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_svgi.php on line 50
+[22-Apr-2025 22:44:48 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_html.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_html.php on line 49
+[22-Apr-2025 22:44:49 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_html.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_html.php on line 49
+[22-Apr-2025 22:44:49 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_png.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_png.php on line 49
+[22-Apr-2025 22:44:51 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_png.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_png.php on line 49
+[22-Apr-2025 22:44:51 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_svg.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_svg.php on line 49
+[22-Apr-2025 22:44:52 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_svg.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_svg.php on line 49
+[22-Apr-2025 22:44:52 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_svgi.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_svgi.php on line 49
+[22-Apr-2025 22:44:53 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_svgi.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_svgi.php on line 49
+[23-Apr-2025 00:16:02 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDFBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_html.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_html.php on line 50
+[23-Apr-2025 00:16:04 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDFBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_html.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_html.php on line 50
+[23-Apr-2025 00:16:04 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDFBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_png.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_png.php on line 49
+[23-Apr-2025 00:16:05 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDFBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_png.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_png.php on line 49
+[23-Apr-2025 00:16:05 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDFBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_svg.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_svg.php on line 50
+[23-Apr-2025 00:16:06 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDFBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_svg.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_svg.php on line 50
+[23-Apr-2025 00:16:06 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDFBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_svgi.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_svgi.php on line 50
+[23-Apr-2025 00:16:08 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDFBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_svgi.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_svgi.php on line 50
+[23-Apr-2025 00:16:08 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_html.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_html.php on line 50
+[23-Apr-2025 00:16:09 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_html.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_html.php on line 50
+[23-Apr-2025 00:16:09 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_png.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_png.php on line 49
+[23-Apr-2025 00:16:10 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_png.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_png.php on line 49
+[23-Apr-2025 00:16:11 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_svg.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_svg.php on line 50
+[23-Apr-2025 00:16:12 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_svg.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_svg.php on line 50
+[23-Apr-2025 00:16:12 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_svgi.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_svgi.php on line 50
+[23-Apr-2025 00:16:13 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_svgi.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_svgi.php on line 50
+[23-Apr-2025 00:16:13 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_html.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_html.php on line 50
+[23-Apr-2025 00:16:14 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_html.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_html.php on line 50
+[23-Apr-2025 00:16:15 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_png.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_png.php on line 49
+[23-Apr-2025 00:16:16 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_png.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_png.php on line 49
+[23-Apr-2025 00:16:16 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_svg.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_svg.php on line 50
+[23-Apr-2025 00:16:17 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_svg.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_svg.php on line 50
+[23-Apr-2025 00:16:17 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_svgi.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_svgi.php on line 50
+[23-Apr-2025 00:16:19 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_svgi.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_svgi.php on line 50
+[23-Apr-2025 00:16:19 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_html.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_html.php on line 49
+[23-Apr-2025 00:16:20 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_html.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_html.php on line 49
+[23-Apr-2025 00:16:20 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_png.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_png.php on line 49
+[23-Apr-2025 00:16:21 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_png.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_png.php on line 49
+[23-Apr-2025 00:16:21 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_svg.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_svg.php on line 49
+[23-Apr-2025 00:16:23 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_svg.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_svg.php on line 49
+[23-Apr-2025 00:16:23 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_svgi.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_svgi.php on line 49
+[23-Apr-2025 00:16:24 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_svgi.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_svgi.php on line 49
+[23-Apr-2025 01:24:55 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDFBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_html.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_html.php on line 50
+[23-Apr-2025 01:24:57 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDFBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_html.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_html.php on line 50
+[23-Apr-2025 01:24:57 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDFBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_png.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_png.php on line 49
+[23-Apr-2025 01:24:58 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDFBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_png.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_png.php on line 49
+[23-Apr-2025 01:24:58 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDFBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_svg.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_svg.php on line 50
+[23-Apr-2025 01:24:59 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDFBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_svg.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_svg.php on line 50
+[23-Apr-2025 01:25:00 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDFBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_svgi.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_svgi.php on line 50
+[23-Apr-2025 01:25:01 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDFBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_svgi.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_svgi.php on line 50
+[23-Apr-2025 01:25:01 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_html.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_html.php on line 50
+[23-Apr-2025 01:25:02 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_html.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_html.php on line 50
+[23-Apr-2025 01:25:02 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_png.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_png.php on line 49
+[23-Apr-2025 01:25:03 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_png.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_png.php on line 49
+[23-Apr-2025 01:25:04 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_svg.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_svg.php on line 50
+[23-Apr-2025 01:25:05 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_svg.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_svg.php on line 50
+[23-Apr-2025 01:25:05 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_svgi.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_svgi.php on line 50
+[23-Apr-2025 01:25:06 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_svgi.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_svgi.php on line 50
+[23-Apr-2025 01:25:06 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_html.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_html.php on line 50
+[23-Apr-2025 01:25:08 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_html.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_html.php on line 50
+[23-Apr-2025 01:25:08 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_png.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_png.php on line 49
+[23-Apr-2025 01:25:09 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_png.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_png.php on line 49
+[23-Apr-2025 01:25:09 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_svg.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_svg.php on line 50
+[23-Apr-2025 01:25:10 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_svg.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_svg.php on line 50
+[23-Apr-2025 01:25:11 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_svgi.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_svgi.php on line 50
+[23-Apr-2025 01:25:12 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_svgi.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_svgi.php on line 50
+[23-Apr-2025 01:25:12 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_html.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_html.php on line 49
+[23-Apr-2025 01:25:13 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_html.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_html.php on line 49
+[23-Apr-2025 01:25:13 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_png.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_png.php on line 49
+[23-Apr-2025 01:25:15 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_png.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_png.php on line 49
+[23-Apr-2025 01:25:15 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_svg.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_svg.php on line 49
+[23-Apr-2025 01:25:16 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_svg.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_svg.php on line 49
+[23-Apr-2025 01:25:16 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_svgi.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_svgi.php on line 49
+[23-Apr-2025 01:25:17 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_svgi.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_svgi.php on line 49
+[23-Apr-2025 02:25:25 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDFBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_html.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_html.php on line 50
+[23-Apr-2025 02:25:26 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDFBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_html.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_html.php on line 50
+[23-Apr-2025 02:25:26 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDFBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_png.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_png.php on line 49
+[23-Apr-2025 02:25:27 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDFBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_png.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_png.php on line 49
+[23-Apr-2025 02:25:28 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDFBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_svg.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_svg.php on line 50
+[23-Apr-2025 02:25:29 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDFBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_svg.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_svg.php on line 50
+[23-Apr-2025 02:25:29 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDFBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_svgi.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_svgi.php on line 50
+[23-Apr-2025 02:25:30 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDFBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_svgi.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_svgi.php on line 50
+[23-Apr-2025 02:25:30 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_html.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_html.php on line 50
+[23-Apr-2025 02:25:31 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_html.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_html.php on line 50
+[23-Apr-2025 02:25:32 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_png.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_png.php on line 49
+[23-Apr-2025 02:25:33 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_png.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_png.php on line 49
+[23-Apr-2025 02:25:33 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_svg.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_svg.php on line 50
+[23-Apr-2025 02:25:34 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_svg.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_svg.php on line 50
+[23-Apr-2025 02:25:34 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_svgi.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_svgi.php on line 50
+[23-Apr-2025 02:25:36 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_svgi.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_svgi.php on line 50
+[23-Apr-2025 02:25:36 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_html.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_html.php on line 50
+[23-Apr-2025 02:25:37 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_html.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_html.php on line 50
+[23-Apr-2025 02:25:37 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_png.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_png.php on line 49
+[23-Apr-2025 02:25:38 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_png.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_png.php on line 49
+[23-Apr-2025 02:25:38 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_svg.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_svg.php on line 50
+[23-Apr-2025 02:25:40 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_svg.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_svg.php on line 50
+[23-Apr-2025 02:25:40 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_svgi.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_svgi.php on line 50
+[23-Apr-2025 02:25:41 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_svgi.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_svgi.php on line 50
+[23-Apr-2025 02:25:41 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_html.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_html.php on line 49
+[23-Apr-2025 02:25:42 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_html.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_html.php on line 49
+[23-Apr-2025 02:25:43 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_png.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_png.php on line 49
+[23-Apr-2025 02:25:44 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_png.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_png.php on line 49
+[23-Apr-2025 02:25:44 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_svg.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_svg.php on line 49
+[23-Apr-2025 02:25:45 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_svg.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_svg.php on line 49
+[23-Apr-2025 02:25:45 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_svgi.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_svgi.php on line 49
+[23-Apr-2025 02:25:46 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_svgi.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_svgi.php on line 49
+[23-Apr-2025 03:53:31 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDFBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_html.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_html.php on line 50
+[23-Apr-2025 03:53:32 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDFBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_html.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_html.php on line 50
+[23-Apr-2025 03:53:32 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDFBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_png.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_png.php on line 49
+[23-Apr-2025 03:53:33 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDFBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_png.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_png.php on line 49
+[23-Apr-2025 03:53:34 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDFBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_svg.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_svg.php on line 50
+[23-Apr-2025 03:53:35 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDFBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_svg.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_svg.php on line 50
+[23-Apr-2025 03:53:35 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDFBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_svgi.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_svgi.php on line 50
+[23-Apr-2025 03:53:36 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDFBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_svgi.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_svgi.php on line 50
+[23-Apr-2025 03:53:36 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_html.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_html.php on line 50
+[23-Apr-2025 03:53:38 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_html.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_html.php on line 50
+[23-Apr-2025 03:53:38 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_png.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_png.php on line 49
+[23-Apr-2025 03:53:39 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_png.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_png.php on line 49
+[23-Apr-2025 03:53:39 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_svg.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_svg.php on line 50
+[23-Apr-2025 03:53:40 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_svg.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_svg.php on line 50
+[23-Apr-2025 03:53:41 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_svgi.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_svgi.php on line 50
+[23-Apr-2025 03:53:42 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_svgi.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_svgi.php on line 50
+[23-Apr-2025 03:53:42 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_html.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_html.php on line 50
+[23-Apr-2025 03:53:43 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_html.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_html.php on line 50
+[23-Apr-2025 03:53:43 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_png.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_png.php on line 49
+[23-Apr-2025 03:53:44 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_png.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_png.php on line 49
+[23-Apr-2025 03:53:45 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_svg.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_svg.php on line 50
+[23-Apr-2025 03:53:46 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_svg.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_svg.php on line 50
+[23-Apr-2025 03:53:46 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_svgi.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_svgi.php on line 50
+[23-Apr-2025 03:53:47 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_svgi.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_svgi.php on line 50
+[23-Apr-2025 03:53:47 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_html.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_html.php on line 49
+[23-Apr-2025 03:53:49 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_html.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_html.php on line 49
+[23-Apr-2025 03:53:49 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_png.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_png.php on line 49
+[23-Apr-2025 03:53:50 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_png.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_png.php on line 49
+[23-Apr-2025 03:53:50 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_svg.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_svg.php on line 49
+[23-Apr-2025 03:53:51 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_svg.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_svg.php on line 49
+[23-Apr-2025 03:53:51 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_svgi.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_svgi.php on line 49
+[23-Apr-2025 03:53:53 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_svgi.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_svgi.php on line 49
+[23-Apr-2025 05:37:45 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDFBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_html.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_html.php on line 50
+[23-Apr-2025 05:37:46 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDFBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_html.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_html.php on line 50
+[23-Apr-2025 05:37:46 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDFBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_png.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_png.php on line 49
+[23-Apr-2025 05:37:47 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDFBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_png.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_png.php on line 49
+[23-Apr-2025 05:37:47 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDFBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_svg.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_svg.php on line 50
+[23-Apr-2025 05:37:48 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDFBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_svg.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_svg.php on line 50
+[23-Apr-2025 05:37:48 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDFBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_svgi.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_svgi.php on line 50
+[23-Apr-2025 05:37:49 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDFBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_svgi.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_svgi.php on line 50
+[23-Apr-2025 05:37:49 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_html.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_html.php on line 50
+[23-Apr-2025 05:37:50 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_html.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_html.php on line 50
+[23-Apr-2025 05:37:50 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_png.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_png.php on line 49
+[23-Apr-2025 05:37:51 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_png.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_png.php on line 49
+[23-Apr-2025 05:37:51 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_svg.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_svg.php on line 50
+[23-Apr-2025 05:37:52 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_svg.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_svg.php on line 50
+[23-Apr-2025 05:37:52 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_svgi.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_svgi.php on line 50
+[23-Apr-2025 05:37:53 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_svgi.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_svgi.php on line 50
+[23-Apr-2025 05:37:53 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_html.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_html.php on line 50
+[23-Apr-2025 05:37:54 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_html.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_html.php on line 50
+[23-Apr-2025 05:37:54 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_png.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_png.php on line 49
+[23-Apr-2025 05:37:55 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_png.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_png.php on line 49
+[23-Apr-2025 05:37:55 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_svg.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_svg.php on line 50
+[23-Apr-2025 05:37:56 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_svg.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_svg.php on line 50
+[23-Apr-2025 05:37:56 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_svgi.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_svgi.php on line 50
+[23-Apr-2025 05:37:57 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_svgi.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_svgi.php on line 50
+[23-Apr-2025 05:37:57 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_html.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_html.php on line 49
+[23-Apr-2025 05:37:58 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_html.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_html.php on line 49
+[23-Apr-2025 05:37:58 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_png.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_png.php on line 49
+[23-Apr-2025 05:37:59 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_png.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_png.php on line 49
+[23-Apr-2025 05:37:59 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_svg.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_svg.php on line 49
+[23-Apr-2025 05:38:00 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_svg.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_svg.php on line 49
+[23-Apr-2025 05:38:00 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_svgi.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_svgi.php on line 49
+[23-Apr-2025 05:38:01 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_svgi.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_svgi.php on line 49
+[23-Apr-2025 10:45:11 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDFBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_html.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_html.php on line 50
+[23-Apr-2025 10:45:12 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDFBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_html.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_html.php on line 50
+[23-Apr-2025 10:45:12 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDFBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_png.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_png.php on line 49
+[23-Apr-2025 10:45:13 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDFBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_png.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_png.php on line 49
+[23-Apr-2025 10:45:13 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDFBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_svg.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_svg.php on line 50
+[23-Apr-2025 10:45:14 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDFBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_svg.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_svg.php on line 50
+[23-Apr-2025 10:45:14 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDFBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_svgi.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_svgi.php on line 50
+[23-Apr-2025 10:45:15 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDFBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_svgi.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_svgi.php on line 50
+[23-Apr-2025 10:45:15 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_html.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_html.php on line 50
+[23-Apr-2025 10:45:17 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_html.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_html.php on line 50
+[23-Apr-2025 10:45:17 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_png.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_png.php on line 49
+[23-Apr-2025 10:45:18 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_png.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_png.php on line 49
+[23-Apr-2025 10:45:18 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_svg.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_svg.php on line 50
+[23-Apr-2025 10:45:19 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_svg.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_svg.php on line 50
+[23-Apr-2025 10:45:19 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_svgi.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_svgi.php on line 50
+[23-Apr-2025 10:45:20 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_svgi.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_svgi.php on line 50
+[23-Apr-2025 10:45:20 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_html.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_html.php on line 50
+[23-Apr-2025 10:45:21 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_html.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_html.php on line 50
+[23-Apr-2025 10:45:22 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_png.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_png.php on line 49
+[23-Apr-2025 10:45:23 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_png.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_png.php on line 49
+[23-Apr-2025 10:45:23 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_svg.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_svg.php on line 50
+[23-Apr-2025 10:45:24 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_svg.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_svg.php on line 50
+[23-Apr-2025 10:45:24 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_svgi.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_svgi.php on line 50
+[23-Apr-2025 10:45:25 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_svgi.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_svgi.php on line 50
+[23-Apr-2025 10:45:25 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_html.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_html.php on line 49
+[23-Apr-2025 10:45:26 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_html.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_html.php on line 49
+[23-Apr-2025 10:45:26 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_png.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_png.php on line 49
+[23-Apr-2025 10:45:28 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_png.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_png.php on line 49
+[23-Apr-2025 10:45:28 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_svg.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_svg.php on line 49
+[23-Apr-2025 10:45:29 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_svg.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_svg.php on line 49
+[23-Apr-2025 10:45:29 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_svgi.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_svgi.php on line 49
+[23-Apr-2025 10:45:30 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_svgi.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_svgi.php on line 49
+[23-Apr-2025 15:25:44 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDFBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_html.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_html.php on line 50
+[23-Apr-2025 15:25:46 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDFBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_html.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_html.php on line 50
+[23-Apr-2025 15:25:46 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDFBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_png.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_png.php on line 49
+[23-Apr-2025 15:25:47 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDFBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_png.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_png.php on line 49
+[23-Apr-2025 15:25:47 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDFBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_svg.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_svg.php on line 50
+[23-Apr-2025 15:25:48 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDFBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_svg.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_svg.php on line 50
+[23-Apr-2025 15:25:49 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDFBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_svgi.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_svgi.php on line 50
+[23-Apr-2025 15:25:50 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDFBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_svgi.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_svgi.php on line 50
+[23-Apr-2025 15:25:50 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_html.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_html.php on line 50
+[23-Apr-2025 15:25:51 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_html.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_html.php on line 50
+[23-Apr-2025 15:25:51 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_png.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_png.php on line 49
+[23-Apr-2025 15:25:53 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_png.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_png.php on line 49
+[23-Apr-2025 15:25:53 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_svg.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_svg.php on line 50
+[23-Apr-2025 15:25:54 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_svg.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_svg.php on line 50
+[23-Apr-2025 15:25:54 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_svgi.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_svgi.php on line 50
+[23-Apr-2025 15:25:55 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_svgi.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_svgi.php on line 50
+[23-Apr-2025 15:25:55 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_html.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_html.php on line 50
+[23-Apr-2025 15:25:57 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_html.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_html.php on line 50
+[23-Apr-2025 15:25:57 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_png.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_png.php on line 49
+[23-Apr-2025 15:25:58 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_png.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_png.php on line 49
+[23-Apr-2025 15:25:58 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_svg.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_svg.php on line 50
+[23-Apr-2025 15:25:59 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_svg.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_svg.php on line 50
+[23-Apr-2025 15:26:00 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_svgi.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_svgi.php on line 50
+[23-Apr-2025 15:26:01 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_svgi.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_svgi.php on line 50
+[23-Apr-2025 15:26:01 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_html.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_html.php on line 49
+[23-Apr-2025 15:26:02 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_html.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_html.php on line 49
+[23-Apr-2025 15:26:02 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_png.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_png.php on line 49
+[23-Apr-2025 15:26:04 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_png.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_png.php on line 49
+[23-Apr-2025 15:26:04 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_svg.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_svg.php on line 49
+[23-Apr-2025 15:26:05 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_svg.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_svg.php on line 49
+[23-Apr-2025 15:26:05 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_svgi.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_svgi.php on line 49
+[23-Apr-2025 15:26:06 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_svgi.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_svgi.php on line 49
+[23-Apr-2025 16:23:24 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDFBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_html.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_html.php on line 50
+[23-Apr-2025 16:23:26 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDFBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_html.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_html.php on line 50
+[23-Apr-2025 16:23:26 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDFBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_png.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_png.php on line 49
+[23-Apr-2025 16:23:27 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDFBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_png.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_png.php on line 49
+[23-Apr-2025 16:23:27 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDFBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_svg.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_svg.php on line 50
+[23-Apr-2025 16:23:28 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDFBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_svg.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_svg.php on line 50
+[23-Apr-2025 16:23:28 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDFBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_svgi.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_svgi.php on line 50
+[23-Apr-2025 16:23:29 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDFBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_svgi.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_svgi.php on line 50
+[23-Apr-2025 16:23:29 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_html.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_html.php on line 50
+[23-Apr-2025 16:23:30 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_html.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_html.php on line 50
+[23-Apr-2025 16:23:31 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_png.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_png.php on line 49
+[23-Apr-2025 16:23:32 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_png.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_png.php on line 49
+[23-Apr-2025 16:23:32 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_svg.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_svg.php on line 50
+[23-Apr-2025 16:23:33 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_svg.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_svg.php on line 50
+[23-Apr-2025 16:23:33 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_svgi.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_svgi.php on line 50
+[23-Apr-2025 16:23:34 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_svgi.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_svgi.php on line 50
+[23-Apr-2025 16:23:34 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_html.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_html.php on line 50
+[23-Apr-2025 16:23:35 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_html.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_html.php on line 50
+[23-Apr-2025 16:23:35 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_png.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_png.php on line 49
+[23-Apr-2025 16:23:37 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_png.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_png.php on line 49
+[23-Apr-2025 16:23:37 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_svg.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_svg.php on line 50
+[23-Apr-2025 16:23:38 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_svg.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_svg.php on line 50
+[23-Apr-2025 16:23:38 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_svgi.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_svgi.php on line 50
+[23-Apr-2025 16:23:39 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_svgi.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_svgi.php on line 50
+[23-Apr-2025 16:23:39 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_html.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_html.php on line 49
+[23-Apr-2025 16:23:40 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_html.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_html.php on line 49
+[23-Apr-2025 16:23:40 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_png.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_png.php on line 49
+[23-Apr-2025 16:23:41 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_png.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_png.php on line 49
+[23-Apr-2025 16:23:41 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_svg.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_svg.php on line 49
+[23-Apr-2025 16:23:43 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_svg.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_svg.php on line 49
+[23-Apr-2025 16:23:43 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_svgi.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_svgi.php on line 49
+[23-Apr-2025 16:23:44 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_svgi.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_svgi.php on line 49
+[23-Apr-2025 17:31:19 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDFBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_html.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_html.php on line 50
+[23-Apr-2025 17:31:20 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDFBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_html.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_html.php on line 50
+[23-Apr-2025 17:31:20 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDFBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_png.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_png.php on line 49
+[23-Apr-2025 17:31:21 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDFBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_png.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_png.php on line 49
+[23-Apr-2025 17:31:21 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDFBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_svg.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_svg.php on line 50
+[23-Apr-2025 17:31:22 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDFBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_svg.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_svg.php on line 50
+[23-Apr-2025 17:31:22 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDFBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_svgi.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_svgi.php on line 50
+[23-Apr-2025 17:31:23 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDFBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_svgi.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_svgi.php on line 50
+[23-Apr-2025 17:31:23 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_html.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_html.php on line 50
+[23-Apr-2025 17:31:24 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_html.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_html.php on line 50
+[23-Apr-2025 17:31:24 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_png.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_png.php on line 49
+[23-Apr-2025 17:31:25 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_png.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_png.php on line 49
+[23-Apr-2025 17:31:25 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_svg.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_svg.php on line 50
+[23-Apr-2025 17:31:26 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_svg.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_svg.php on line 50
+[23-Apr-2025 17:31:27 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_svgi.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_svgi.php on line 50
+[23-Apr-2025 17:31:28 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_svgi.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_svgi.php on line 50
+[23-Apr-2025 17:31:28 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_html.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_html.php on line 50
+[23-Apr-2025 17:31:29 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_html.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_html.php on line 50
+[23-Apr-2025 17:31:29 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_png.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_png.php on line 49
+[23-Apr-2025 17:31:30 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_png.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_png.php on line 49
+[23-Apr-2025 17:31:30 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_svg.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_svg.php on line 50
+[23-Apr-2025 17:31:31 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_svg.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_svg.php on line 50
+[23-Apr-2025 17:31:31 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_svgi.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_svgi.php on line 50
+[23-Apr-2025 17:31:32 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_svgi.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_svgi.php on line 50
+[23-Apr-2025 17:31:32 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_html.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_html.php on line 49
+[23-Apr-2025 17:31:33 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_html.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_html.php on line 49
+[23-Apr-2025 17:31:33 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_png.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_png.php on line 49
+[23-Apr-2025 17:31:34 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_png.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_png.php on line 49
+[23-Apr-2025 17:31:34 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_svg.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_svg.php on line 49
+[23-Apr-2025 17:31:35 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_svg.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_svg.php on line 49
+[23-Apr-2025 17:31:35 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_svgi.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_svgi.php on line 49
+[23-Apr-2025 17:31:36 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_svgi.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_svgi.php on line 49
+[23-Apr-2025 18:26:07 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDFBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_html.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_html.php on line 50
+[23-Apr-2025 18:26:09 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDFBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_html.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_html.php on line 50
+[23-Apr-2025 18:26:09 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDFBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_png.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_png.php on line 49
+[23-Apr-2025 18:26:10 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDFBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_png.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_png.php on line 49
+[23-Apr-2025 18:26:10 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDFBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_svg.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_svg.php on line 50
+[23-Apr-2025 18:26:11 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDFBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_svg.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_svg.php on line 50
+[23-Apr-2025 18:26:11 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDFBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_svgi.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_svgi.php on line 50
+[23-Apr-2025 18:26:12 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDFBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_svgi.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_svgi.php on line 50
+[23-Apr-2025 18:26:12 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_html.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_html.php on line 50
+[23-Apr-2025 18:26:13 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_html.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_html.php on line 50
+[23-Apr-2025 18:26:13 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_png.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_png.php on line 49
+[23-Apr-2025 18:26:14 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_png.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_png.php on line 49
+[23-Apr-2025 18:26:14 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_svg.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_svg.php on line 50
+[23-Apr-2025 18:26:15 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_svg.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_svg.php on line 50
+[23-Apr-2025 18:26:15 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_svgi.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_svgi.php on line 50
+[23-Apr-2025 18:26:16 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_svgi.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_svgi.php on line 50
+[23-Apr-2025 18:26:16 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_html.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_html.php on line 50
+[23-Apr-2025 18:26:17 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_html.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_html.php on line 50
+[23-Apr-2025 18:26:17 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_png.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_png.php on line 49
+[23-Apr-2025 18:26:18 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_png.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_png.php on line 49
+[23-Apr-2025 18:26:18 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_svg.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_svg.php on line 50
+[23-Apr-2025 18:26:19 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_svg.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_svg.php on line 50
+[23-Apr-2025 18:26:19 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_svgi.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_svgi.php on line 50
+[23-Apr-2025 18:26:20 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_svgi.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_svgi.php on line 50
+[23-Apr-2025 18:26:20 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_html.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_html.php on line 49
+[23-Apr-2025 18:26:21 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_html.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_html.php on line 49
+[23-Apr-2025 18:26:21 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_png.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_png.php on line 49
+[23-Apr-2025 18:26:22 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_png.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_png.php on line 49
+[23-Apr-2025 18:26:22 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_svg.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_svg.php on line 49
+[23-Apr-2025 18:26:23 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_svg.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_svg.php on line 49
+[23-Apr-2025 18:26:23 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_svgi.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_svgi.php on line 49
+[23-Apr-2025 18:26:24 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_svgi.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_svgi.php on line 49
+[25-Apr-2025 05:11:10 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDFBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_html.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_html.php on line 50
+[25-Apr-2025 05:15:06 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_html.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_html.php on line 49
+[25-Apr-2025 05:19:40 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_png.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_png.php on line 49
+[25-Apr-2025 05:20:19 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_html.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_html.php on line 50
+[25-Apr-2025 05:20:39 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_png.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_png.php on line 49
+[25-Apr-2025 05:20:58 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_svg.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_svg.php on line 50
+[25-Apr-2025 05:24:16 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_svgi.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_svgi.php on line 50
+[25-Apr-2025 05:45:09 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDFBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_svgi.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_svgi.php on line 50
+[25-Apr-2025 05:48:09 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_html.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_html.php on line 50
+[25-Apr-2025 05:51:21 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_html.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_html.php on line 50
+[25-Apr-2025 05:52:40 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_svg.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_svg.php on line 50
+[25-Apr-2025 05:54:00 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_html.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_html.php on line 49
+[25-Apr-2025 05:55:00 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDFBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_svg.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_svg.php on line 50
+[25-Apr-2025 06:00:17 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_png.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_png.php on line 49
+[25-Apr-2025 06:00:52 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDFBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_png.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_png.php on line 49
+[25-Apr-2025 06:10:25 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDFBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_png.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_png.php on line 49
+[25-Apr-2025 06:11:35 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_png.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_png.php on line 49
+[25-Apr-2025 06:18:45 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_html.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_html.php on line 50
+[25-Apr-2025 06:25:17 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_svg.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_svg.php on line 50
+[25-Apr-2025 06:25:53 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_png.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_png.php on line 49
+[25-Apr-2025 06:31:50 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_svgi.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_svgi.php on line 49
+[25-Apr-2025 06:32:26 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_svg.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_svg.php on line 50
+[25-Apr-2025 06:34:14 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_svgi.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_svgi.php on line 50
+[25-Apr-2025 06:35:24 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDFBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_svgi.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_svgi.php on line 50
+[25-Apr-2025 06:40:47 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDFBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_svg.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_svg.php on line 50
+[25-Apr-2025 06:44:23 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_svg.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_svg.php on line 49
+[25-Apr-2025 06:47:55 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_svgi.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_svgi.php on line 50
+[25-Apr-2025 06:49:43 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_svgi.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_svgi.php on line 50
+[25-Apr-2025 06:56:51 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_svgi.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_svgi.php on line 49
+[25-Apr-2025 07:00:33 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_svg.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_svg.php on line 49
+[25-Apr-2025 07:03:59 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_png.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_png.php on line 49
+[25-Apr-2025 07:08:09 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDFBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_html.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_html.php on line 50
+[25-Apr-2025 07:29:06 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_svgi.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_svgi.php on line 49
+[25-Apr-2025 07:29:18 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_svg.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_svg.php on line 49
+[25-Apr-2025 07:29:30 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_png.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_png.php on line 49
+[25-Apr-2025 07:29:41 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_html.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_html.php on line 49
+[25-Apr-2025 07:29:52 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_svgi.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_svgi.php on line 50
+[25-Apr-2025 07:30:03 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_svg.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_svg.php on line 50
+[25-Apr-2025 07:30:14 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_png.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_png.php on line 49
+[25-Apr-2025 07:30:25 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_html.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_html.php on line 50
+[25-Apr-2025 07:30:37 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_svgi.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_svgi.php on line 50
+[25-Apr-2025 07:30:48 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_svg.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_svg.php on line 50
+[25-Apr-2025 07:30:57 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_png.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_png.php on line 49
+[25-Apr-2025 07:31:07 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_html.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_html.php on line 50
+[25-Apr-2025 07:31:19 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDFBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_svgi.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_svgi.php on line 50
+[25-Apr-2025 07:31:31 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDFBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_svg.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_svg.php on line 50
+[25-Apr-2025 07:31:44 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDFBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_png.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_png.php on line 49
+[25-Apr-2025 07:31:57 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDFBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_html.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_html.php on line 50
+[25-Apr-2025 08:16:27 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_svgi.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_svgi.php on line 49
+[25-Apr-2025 08:16:56 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_svg.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_svg.php on line 49
+[25-Apr-2025 08:17:27 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_png.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_png.php on line 49
+[25-Apr-2025 08:17:57 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_html.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_html.php on line 49
+[25-Apr-2025 08:18:11 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_svgi.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_svgi.php on line 50
+[25-Apr-2025 08:18:32 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_svg.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_svg.php on line 50
+[25-Apr-2025 08:18:42 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_png.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_png.php on line 49
+[25-Apr-2025 08:18:53 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_html.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_html.php on line 50
+[25-Apr-2025 08:19:03 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_svgi.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_svgi.php on line 50
+[25-Apr-2025 08:19:14 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_svg.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_svg.php on line 50
+[25-Apr-2025 08:19:23 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_png.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_png.php on line 49
+[25-Apr-2025 08:19:35 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_html.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_html.php on line 50
+[25-Apr-2025 08:19:45 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDFBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_svgi.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_svgi.php on line 50
+[25-Apr-2025 08:19:57 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDFBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_svg.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_svg.php on line 50
+[25-Apr-2025 08:20:08 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDFBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_png.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_png.php on line 49
+[25-Apr-2025 08:20:19 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDFBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_html.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_html.php on line 50
+[25-Apr-2025 15:34:05 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_svgi.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_svgi.php on line 49
+[25-Apr-2025 15:34:06 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_svg.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_svg.php on line 50
+[25-Apr-2025 15:34:08 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_svg.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_svg.php on line 50
+[25-Apr-2025 15:34:12 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDFBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_svg.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_svg.php on line 50
+[25-Apr-2025 15:35:15 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_html.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_html.php on line 50
+[25-Apr-2025 15:35:29 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDFBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_svgi.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_svgi.php on line 50
+[25-Apr-2025 15:35:37 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_png.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_png.php on line 49
+[25-Apr-2025 15:35:37 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_svgi.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_svgi.php on line 50
+[25-Apr-2025 15:36:04 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_html.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_html.php on line 49
+[25-Apr-2025 15:36:14 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_svgi.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_svgi.php on line 50
+[25-Apr-2025 15:36:49 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDFBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_html.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_html.php on line 50
+[25-Apr-2025 15:38:44 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_png.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_pdf417_png.php on line 49
+[25-Apr-2025 15:39:32 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_svg.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_svg.php on line 49
+[25-Apr-2025 15:39:44 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_png.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_qrcode_png.php on line 49
+[25-Apr-2025 15:39:49 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDF2DBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_html.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_2d_datamatrix_html.php on line 50
+[25-Apr-2025 15:39:49 UTC] PHP Fatal error:  Uncaught Error: Class "TCPDFBarcode" not found in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_png.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/tcpdf/examples/barcodes/example_1d_png.php on line 49

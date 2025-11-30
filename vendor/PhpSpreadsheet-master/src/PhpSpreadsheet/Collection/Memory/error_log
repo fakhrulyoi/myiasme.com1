@@ -1,0 +1,56 @@
+[25-Apr-2025 09:15:24 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\SimpleCache\CacheInterface" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Collection/Memory/SimpleCache1.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Collection/Memory/SimpleCache1.php on line 18
+[25-Apr-2025 09:15:44 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\SimpleCache\CacheInterface" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Collection/Memory/SimpleCache3.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Collection/Memory/SimpleCache3.php on line 14
+[25-Apr-2025 10:19:55 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\SimpleCache\CacheInterface" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Collection/Memory/SimpleCache1.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Collection/Memory/SimpleCache1.php on line 18
+[25-Apr-2025 10:21:11 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\SimpleCache\CacheInterface" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Collection/Memory/SimpleCache3.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Collection/Memory/SimpleCache3.php on line 14
+[11-May-2025 11:55:11 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\SimpleCache\CacheInterface" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Collection/Memory/SimpleCache1.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Collection/Memory/SimpleCache1.php on line 18
+[11-May-2025 12:01:58 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\SimpleCache\CacheInterface" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Collection/Memory/SimpleCache3.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Collection/Memory/SimpleCache3.php on line 14
+[11-May-2025 12:54:47 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\SimpleCache\CacheInterface" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Collection/Memory/SimpleCache3.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Collection/Memory/SimpleCache3.php on line 14
+[11-May-2025 12:55:08 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\SimpleCache\CacheInterface" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Collection/Memory/SimpleCache1.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Collection/Memory/SimpleCache1.php on line 18
+[13-May-2025 12:46:47 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\SimpleCache\CacheInterface" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Collection/Memory/SimpleCache3.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Collection/Memory/SimpleCache3.php on line 14
+[13-May-2025 12:47:00 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\SimpleCache\CacheInterface" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Collection/Memory/SimpleCache1.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Collection/Memory/SimpleCache1.php on line 18
+[13-May-2025 13:38:13 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\SimpleCache\CacheInterface" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Collection/Memory/SimpleCache1.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Collection/Memory/SimpleCache1.php on line 18
+[13-May-2025 14:42:07 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\SimpleCache\CacheInterface" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Collection/Memory/SimpleCache3.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Collection/Memory/SimpleCache3.php on line 14
+[15-May-2025 14:24:17 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\SimpleCache\CacheInterface" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Collection/Memory/SimpleCache1.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Collection/Memory/SimpleCache1.php on line 18
+[15-May-2025 14:24:42 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\SimpleCache\CacheInterface" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Collection/Memory/SimpleCache3.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Collection/Memory/SimpleCache3.php on line 14

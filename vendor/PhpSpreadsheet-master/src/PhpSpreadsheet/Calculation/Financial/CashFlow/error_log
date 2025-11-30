@@ -1,0 +1,28 @@
+[25-Apr-2025 10:26:37 UTC] PHP Fatal error:  Uncaught Error: Class "PhpOffice\PhpSpreadsheet\Calculation\Financial\FinancialValidations" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Calculation/Financial/CashFlow/CashFlowValidations.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Calculation/Financial/CashFlow/CashFlowValidations.php on line 10
+[25-Apr-2025 11:28:32 UTC] PHP Fatal error:  Uncaught Error: Class "PhpOffice\PhpSpreadsheet\Calculation\Financial\FinancialValidations" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Calculation/Financial/CashFlow/CashFlowValidations.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Calculation/Financial/CashFlow/CashFlowValidations.php on line 10
+[11-May-2025 14:28:24 UTC] PHP Fatal error:  Uncaught Error: Class "PhpOffice\PhpSpreadsheet\Calculation\Financial\FinancialValidations" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Calculation/Financial/CashFlow/CashFlowValidations.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Calculation/Financial/CashFlow/CashFlowValidations.php on line 10
+[11-May-2025 14:52:24 UTC] PHP Fatal error:  Uncaught Error: Class "PhpOffice\PhpSpreadsheet\Calculation\Financial\FinancialValidations" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Calculation/Financial/CashFlow/CashFlowValidations.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Calculation/Financial/CashFlow/CashFlowValidations.php on line 10
+[11-May-2025 15:50:32 UTC] PHP Fatal error:  Uncaught Error: Class "PhpOffice\PhpSpreadsheet\Calculation\Financial\FinancialValidations" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Calculation/Financial/CashFlow/CashFlowValidations.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Calculation/Financial/CashFlow/CashFlowValidations.php on line 10
+[13-May-2025 18:20:36 UTC] PHP Fatal error:  Uncaught Error: Class "PhpOffice\PhpSpreadsheet\Calculation\Financial\FinancialValidations" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Calculation/Financial/CashFlow/CashFlowValidations.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Calculation/Financial/CashFlow/CashFlowValidations.php on line 10
+[14-May-2025 03:19:25 UTC] PHP Fatal error:  Uncaught Error: Class "PhpOffice\PhpSpreadsheet\Calculation\Financial\FinancialValidations" not found in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Calculation/Financial/CashFlow/CashFlowValidations.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/flippecc/public_html/myiasme.com/vendor/PhpSpreadsheet-master/src/PhpSpreadsheet/Calculation/Financial/CashFlow/CashFlowValidations.php on line 10
